@@ -1,0 +1,10 @@
+<!-- Nav -->
+<nav id="nav">
+    <ul class="links">
+        {% for item in navigation.menu %}
+        <li class=""><a href="{{ item.link }}">{{ item.text }}</a></li>
+        {% endfor %}
+    </ul>
+    
+    {% include "_base/socials.njk" %}
+</nav>

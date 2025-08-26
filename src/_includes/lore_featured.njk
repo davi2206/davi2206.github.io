@@ -1,0 +1,18 @@
+{% set selectedPosts = collections.lore | where("title", "The Finish Giant") %}
+{% set story = selectedPosts[0] %}
+
+<article class="post featured">
+  <header class="major">
+    <span class="date">{{ story.data.date | format_date() }}</span>
+    <h2>
+      <a href="{{ story.url }}">{{ story.data.title }}</a>
+    </h2>
+    <div>
+      {{ story.content | truncate(150) | safe }}
+    </div>
+  </header>
+  <a href="{{ story.url }}" class="image main"><img src="{{ story.data.featuredImage }}" alt="Forest" /></a>
+  <ul class="actions special">
+    <li><a href="{{ story.url }}" class="button large">Full Story</a></li>
+  </ul>
+</article>
