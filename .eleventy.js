@@ -1,9 +1,11 @@
 const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
+    // Add PassThroughs
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("assets");
-
+    
+    // Add Filters
     eleventyConfig.addFilter("truncate", function (str, len) {
         if (!str) return "";
         if (str.length <= len) return str;
@@ -19,6 +21,11 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addFilter("where", (collection, key, value) => {
         return collection.filter(item => item.data[key] === value);
+    });
+
+    // Create Custom Collections
+    eleventyConfig.addCollection("posts", function (collectionApi) {
+        return collectionApi.getFilteredByGlob("src/posts/**/*.njk");
     });
 
     return {

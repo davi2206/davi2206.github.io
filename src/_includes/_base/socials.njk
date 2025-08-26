@@ -1,8 +1,9 @@
 <ul class="icons">
     {% for item in navigation.socials %}
     <li>
-        <a href="{{ item.link }}" class="icon brands {{ item.icon }}" target="_blank"><span class="label">{{ item.name
-                }}</span></a>
+        <a href="{{ item.link }}" class="icon brands {{ item.icon }}" target="_blank">
+            <span class="label">{{ item.name }}</span>
+        </a>
     </li>
     {% endfor %}
 </ul>

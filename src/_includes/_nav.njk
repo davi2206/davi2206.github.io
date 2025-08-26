@@ -2,7 +2,9 @@
 <nav id="nav">
     <ul class="links">
         {% for item in navigation.menu %}
-        <li class=""><a href="{{ item.link }}">{{ item.text }}</a></li>
+        <li class="{% if item.link == page.url %}active{% endif %}">
+            <a href="{{ item.link }}">{{ item.text }}</a>
+        </li>
         {% endfor %}
     </ul>
     

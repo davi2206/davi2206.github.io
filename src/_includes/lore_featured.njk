@@ -8,10 +8,10 @@
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>
     <div>
-      {{ story.content | truncate(150) | safe }}
+      {{ story.content | truncate(500) | safe }}
     </div>
   </header>
-  <a href="{{ story.url }}" class="image main"><img src="{{ story.data.featuredImage }}" alt="Forest" /></a>
+  <a href="{{ story.url }}" class="image main"><img src="{{ story.data.featuredImage }}" alt="Forest" style="height: 600px;" /></a>
   <ul class="actions special">
     <li><a href="{{ story.url }}" class="button large">Full Story</a></li>
   </ul>

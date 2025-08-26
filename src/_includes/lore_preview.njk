@@ -5,7 +5,7 @@
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>
   </header>
-  <a href="{{ story.url }}" class="image fit"><img src="{{ story.data.featuredImage }}" alt="Forest" /></a>
+  <a href="{{ story.url }}" class="image fit"><img src="{{ story.data.featuredImage }}" alt="Forest" style="height: 400px;" /></a>
   <div>
     {{ story.templateContent | truncate(150) | safe }}
   </div>
