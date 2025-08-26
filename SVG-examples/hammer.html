@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true" class="nl-icon">
+	<title>NorthLore – Mjölnir with Yggdrasil</title>
+	<defs>
+		<!-- Black = cut out (invisible), White = keep -->
+		<mask id="nl-tree-cut">
+			<rect width="512" height="512" fill="white" />
+			<!-- Trunk -->
+			<rect x="248" y="150" width="16" height="70" fill="black" />
+			<!-- Branches -->
+			<polygon points="256,138 238,164 274,164" fill="black" />
+			<polygon points="256,150 224,182 288,182" fill="black" />
+			<polygon points="256,164 210,200 302,200" fill="black" />
+		</mask>
+	</defs>
+
+	<!-- Hammer head -->
+	<polygon points="112,120 400,120 360,210 152,210" fill="currentColor" mask="url(#nl-tree-cut)" />
+	<!-- Neck -->
+	<rect x="232" y="210" width="48" height="42" fill="currentColor" />
+	<!-- Handle -->
+	<rect x="216" y="252" width="80" height="160" rx="10" fill="currentColor" />
+	<!-- Pommel -->
+	<polygon points="208,412 304,412 288,468 224,468" fill="currentColor" />
+</svg>
