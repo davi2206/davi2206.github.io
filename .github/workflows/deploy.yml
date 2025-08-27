@@ -1,0 +1,36 @@
+name: Build and Deploy Eleventy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - Eleventy   # build only when Eleventy branch changes
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20   # or 18, depending on your setup
+
+      - name: Install dependencies
+        run: npm ci   # better than `npm install` on CI
+
+      - name: Build Eleventy site
+        run: npm run build   # assumes "build": "eleventy" in package.json
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site   # Eleventy’s default output
+          publish_branch: gh-pages
+          cname: yourdomain.com  # preserves custom domain
