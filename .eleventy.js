@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
     // Add PassThroughs
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
     
     // Add Filters
     eleventyConfig.addFilter("truncate", function (str, len) {
@@ -22,6 +23,11 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("where", (collection, key, value) => {
         return collection.filter(item => item.data[key] === value);
     });
+
+    eleventyConfig.addFilter("limit", (collection, count) => {
+        return collection.slice(0, count);
+    });
+
 
     // Create Custom Collections
     eleventyConfig.addCollection("posts", function (collectionApi) {

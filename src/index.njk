@@ -10,7 +10,7 @@ title: Home
 
     <!-- Posts -->
     <section class="posts">
-        {% for story in collections.posts | reverse %}
+        {% for story in collections.posts | limit(6) | reverse %}
             {% include "lore_preview.njk" %}
         {% endfor %}
     </section>
