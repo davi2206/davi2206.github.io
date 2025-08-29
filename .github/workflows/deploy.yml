@@ -33,4 +33,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site   # Eleventy’s default output
           publish_branch: gh-pages
-          cname: yourdomain.com  # preserves custom domain
+          cname: NorthLore.dk  # preserves custom domain

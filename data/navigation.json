@@ -1,0 +1,32 @@
+{
+    "menu": [
+        {
+            "link": "/lore",
+            "text": "Lore"
+        },
+        {
+            "link": "/spirits.html",
+            "text": "The Spirits"
+        },
+        {
+            "link": "/album.html",
+            "text": "Album"
+        },
+        {
+            "link": "/js_showcase.html",
+            "text": "JavaScript"
+        }
+    ],
+    "socials": [
+        {
+            "link": "https://x.com/MasterAlerion",
+            "icon": "fa-twitter",
+            "name": "X"
+        },
+        {
+            "link": "https://instagram.com/MasterAlerion",
+            "icon": "fa-instagram",
+            "name": "Instagram"
+        }
+    ]
+}

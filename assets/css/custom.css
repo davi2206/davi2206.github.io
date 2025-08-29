@@ -1,0 +1,13 @@
+
+
+.image_preview {
+    height: 400px;
+    object-position: center;
+    object-fit: cover;
+}
+
+.image_featured {
+    height: 600px;
+    object-position: center;
+    object-fit: cover;
+}

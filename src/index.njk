@@ -1,0 +1,17 @@
+---
+layout: _base.njk
+title: North Lore
+---
+
+<!-- Main -->
+<div id="main">
+    <!-- Featured Post -->
+    {% include "lore_featured.njk" %}
+
+    <!-- Posts -->
+    <section class="posts">
+        {% for story in collections.posts | limit(6) | reverse %}
+            {% include "lore_preview.njk" %}
+        {% endfor %}
+    </section>
+</div>
