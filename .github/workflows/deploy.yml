@@ -3,7 +3,7 @@ name: Build and Deploy Eleventy to GitHub Pages
 on:
   push:
     branches:
-      - Eleventy   # build only when Eleventy branch changes
+      - main
 
 permissions:
   contents: write
