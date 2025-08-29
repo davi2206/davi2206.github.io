@@ -1,16 +1,17 @@
 ---
 layout: _base.njk
-title: North Lore
+title: Lore
+permalink: /lore/index.html
 ---
 
 <!-- Main -->
 <div id="main">
-    <!-- Featured Post -->
-    {% include "lore_featured.njk" %}
+
+    <h>Here be Lore</h>
 
     <!-- Posts -->
     <section class="posts">
-        {% for story in collections.posts | limit(6) | reverse %}
+        {% for story in collections.lore | limit(10) | reverse %}
             {% include "lore_preview.njk" %}
         {% endfor %}
     </section>
