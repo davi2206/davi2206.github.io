@@ -1,38 +1,25 @@
-const { DateTime } = require("luxon");
+// Custom files
+const filters = require('./eleventy-config/filters');
+const passThrough = require('./eleventy-config/passThrough');
+const customCollections = require('./eleventy-config/collections');
+const collections = require('./eleventy-config/collections');
 
 module.exports = function (eleventyConfig) {
-    // Add PassThroughs
-    eleventyConfig.addPassthroughCopy("images");
-    eleventyConfig.addPassthroughCopy("assets");
-    eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
-    
-    // Add Filters
-    eleventyConfig.addFilter("truncate", function (str, len) {
-        if (!str) return "";
-        if (str.length <= len) return str;
-        return str.substr(0, len) + "...";
+    // Register custom JS files
+    filters(eleventyConfig);
+    passThrough(eleventyConfig);
+    customCollections(eleventyConfig);
+
+    // Exclude future posts
+    eleventyConfig.addGlobalData("eleventyComputed.permalink", (data) => {
+        if(!data) return;
+        // Always output on dev (serve, watch)
+        //if (process.env.BUILD_DRAFTS) return data.permalink;
+        // Do not build files with a future date
+        if (data.date && new Date(data.date) > new Date()) return false;
+        return data.permalink;
     });
 
-    eleventyConfig.addFilter("format_date", (dateObj) => {
-        // Convert JS Date or ISO string to Luxon DateTime
-        const dt = DateTime.fromJSDate(dateObj instanceof Date ? dateObj : new Date(dateObj), { locale: 'en' });
-        // Format "dd. MMM. yyyy" like "25. Aug. 2025"
-        return dt.toFormat("dd. LLL. yyyy");
-    });
-
-    eleventyConfig.addFilter("where", (collection, key, value) => {
-        return collection.filter(item => item.data[key] === value);
-    });
-
-    eleventyConfig.addFilter("limit", (collection, count) => {
-        return collection.slice(0, count);
-    });
-
-
-    // Create Custom Collections
-    eleventyConfig.addCollection("posts", function (collectionApi) {
-        return collectionApi.getFilteredByGlob("src/posts/**/*.njk");
-    });
 
     return {
         dir: {

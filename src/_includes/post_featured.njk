@@ -1,9 +1,8 @@
-{% set selectedPosts = collections.lore | where("title", "The Finish Giant") %}
-{% set story = selectedPosts[0] %}
+{% set story = collections.lore | random %}
 
 <article class="post featured">
   <header class="major">
-    <span class="date">{{ story.data.date | format_date() }}</span>
+    <span class="date">Featured</span>
     <h2>
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>

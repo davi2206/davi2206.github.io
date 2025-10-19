@@ -1,17 +1,18 @@
 ---
 layout: _base.njk
 title: North Lore
+collectionName: "posts"
 ---
 
 <!-- Main -->
 <div id="main">
     <!-- Featured Post -->
-    {% include "lore_featured.njk" %}
+    {% include "post_featured.njk" %}
 
     <!-- Posts -->
     <section class="posts">
         {% for story in collections.posts | limit(6) | reverse %}
-            {% include "lore_preview.njk" %}
+            {% include "post_preview.njk" %}
         {% endfor %}
     </section>
 </div>

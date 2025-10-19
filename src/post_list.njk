@@ -1,0 +1,23 @@
+---
+pagination:
+    data: collections
+    size: 1
+    alias: tag
+    filter:
+        - all
+        - nav
+permalink: /{{ tag | slug }}/index.html
+layout: _base.njk
+eleventyComputed:
+  title: "{{ tag | pretty }}"
+---
+
+<!-- Main -->
+<div id="main">
+    <!-- Posts -->
+    <section class="posts">
+        {% for story in collections[tag] %}
+            {% include "post_preview.njk" %}
+        {% endfor %}
+    </section>
+</div>
