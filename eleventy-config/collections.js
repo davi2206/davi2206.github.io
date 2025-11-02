@@ -3,13 +3,12 @@
 // Create Custom Collections
 module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("posts", function (collectionApi) {
-        let posts = collectionApi.getFilteredByGlob("src/posts/**/*.njk")
+        let posts = collectionApi.getFilteredByGlob("src/posts/**/*.*")
             .filter(post => post.date <= new Date());
         return posts;
     });
 
 
-    // TODO: FIX
     eleventyConfig.addCollection("tagsList", function(collection) {
         let posts = collection.getAll();
 

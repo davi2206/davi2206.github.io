@@ -1,8 +1,6 @@
 <!-- Nav -->
 <nav id="nav">
     <ul class="links">
-        <!-- TODO: for tag in all_tags: href="?tag=tag.name" -->
-        {# {% for item in navigation.menu %} #}
         {% for item in collections.tagsList %}
         <li class="{% if item.link == page.url %}active{% endif %}">
             <a href="/{{ item }}">{{ item | pretty }}</a>

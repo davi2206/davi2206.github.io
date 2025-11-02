@@ -5,9 +5,8 @@
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>
   </header>
-  <a href="{{ story.url }}" class="image fit"><img src="{{ story.data.featuredImage }}" alt="Image from story" class="image_preview" /></a>
-  <div>
-    {{ story.templateContent | truncate(150) | safe }}
+  <div style="font-style: italic">
+    {{ story.data.summary | truncate(150) | safe }}
   </div>
   <ul class="actions special">
     <li><a href="{{ story.url }}" class="button">Full Story</a></li>
