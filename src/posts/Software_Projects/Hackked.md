@@ -2,7 +2,7 @@
 tags: Software_Projects
 layout: _article.njk
 title: "What if I told you, you just got Hacked?"
-date: "2026-08-26"
+date: "2050-11-30"
 summary: "Well, you didn't. Don't worry"
 ---
 

@@ -3,23 +3,23 @@
 
 | Done | Title                  | Category | Post date |
 | ---- | -----                  | -------- | --------- |
-|  X   | Welcome to NorthLore   | Spirit   | 01/09     |
-|      |                        |          | 06/09     |
-|      | Lost in Sweeden        | Travel   | 10/09     |
-|      | Fall                   | Spirit   | 13/09     |
-|      |                        |          | 17/09     | <-- Write all these in W45
-|      |                        |          | 20/09     |
-|  X   | I Love you - And 1000..| Spirit   | 24/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
-|      |                        |          | 27/09     |
+|  X   | Welcome to NorthLore   | Spirit   | 01/11     |
+|  X   | Tremek                 | Lore     | 06/11     |
+|      | Lost in Sweeden        | Travel   | 10/11     |
+|      | Fall                   | Spirit   | 13/11     |
+|      |                        |          | 17/11     | <-- Write all these in W45
+|      |                        |          | 20/11     |
+|  X   | I Love you - And 1000..| Spirit   | 24/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
+|      |                        |          | 27/11     |
 
 
 
@@ -27,7 +27,6 @@
 Lore:
 - Lost in Sweeden
 - The Wicked Witch
-- Tremek
 
 Spiritual:
 - Spring

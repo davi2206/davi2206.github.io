@@ -2,7 +2,7 @@
 tags: spiritual
 layout: _article.njk
 title: "Welcome to NorthLore"
-date: "2025-09-01"
+date: "2025-11-01"
 summary: "Before the first stories were told, the cold breath of the Noth whispered from the fjords and through the woods"
 ---
 

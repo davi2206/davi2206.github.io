@@ -2,7 +2,7 @@
 tags: spiritual
 layout: _article.njk
 title: "Fall"
-date: "2026-09-01"
+date: "2050-11-30"
 summary: "Something about fall"
 ---
 

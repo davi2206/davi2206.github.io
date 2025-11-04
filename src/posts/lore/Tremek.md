@@ -2,7 +2,7 @@
 tags: lore
 layout: _article.njk
 title: "Tremek"
-date: "2025-12-01"
+date: "2025-11-06"
 summary: "The history of a City"
 ---
 

@@ -2,7 +2,7 @@
 tags: Software_Projects
 layout: _article.njk
 title: "A-Star Algorithm"
-date: "2026-08-26"
+date: "2050-11-30"
 summary: "A Pathfinding Algorithm at work"
 ---
 

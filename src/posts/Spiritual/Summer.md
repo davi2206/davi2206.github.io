@@ -2,7 +2,7 @@
 tags: spiritual
 layout: _article.njk
 title: "Summer"
-date: "2026-06-01"
+date: "2050-11-30"
 summary: "Something about summer"
 ---
 
