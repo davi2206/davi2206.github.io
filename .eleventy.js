@@ -4,7 +4,11 @@ const passThrough = require('./eleventy-config/passThrough');
 const customCollections = require('./eleventy-config/collections');
 const collections = require('./eleventy-config/collections');
 
+const futurePost = require("eleventy-plugin-future-post");
+
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addPlugin(futurePost);
+    
     // Register custom JS files
     filters(eleventyConfig);
     passThrough(eleventyConfig);
