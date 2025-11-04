@@ -10,4 +10,4 @@ summary: "Something about winter"
 ### What is does to your spirit
 
 My personal experience, on how winter is good for me. 
-The whites, cold, crystal-like, 
+The whites, cold, wet, crystal-like, Winter Solstice

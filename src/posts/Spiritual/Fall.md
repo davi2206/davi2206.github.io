@@ -10,4 +10,5 @@ summary: "Something about fall"
 ### What is does to your spirit
 
 My personal experience, on how fall is good for me. 
-The brown, melancholly, cozy, spooky(?)
+The brown, melancholly, cozy
+Coming of the dark
