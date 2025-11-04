@@ -2,7 +2,7 @@
 tags: spiritual
 layout: _article.njk
 title: "I Love You - And 1,000 other lies I told today"
-date: "2025-09-24"
+date: "2025-11-24"
 summary: "A teaser for a book I will never write"
 ---
 An autobiography about how one person can manipulate his way into people’s lives, with little to no regard for their feelings and well-being. 
