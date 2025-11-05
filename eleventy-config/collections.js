@@ -5,7 +5,13 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("posts", function (collectionApi) {
         let posts = collectionApi.getFilteredByGlob("src/posts/**/*.*")
                 .filter(post => new Date(post.date).getTime() <= new Date().getTime());
-//            .filter(post => post.date <= new Date());
+        return posts;
+    });
+
+    eleventyConfig.addCollection("featured", function(collectionApi) {
+        let posts = collectionApi.getFilteredByGlob("src/posts/**/*.*")
+                .filter(post => new Date(post.date).getTime() <= new Date().getTime())
+                .filter(post => post.data.featured);
         return posts;
     });
 
