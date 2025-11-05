@@ -28,7 +28,6 @@
 
 
 Lore:
-- Lost in Sweeden
 - The Wicked Witch
 
 Spiritual:
