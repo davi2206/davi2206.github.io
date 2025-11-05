@@ -2,11 +2,10 @@
 <nav id="nav">
     <ul class="links">
         {% for item in collections.tagsList %}
-        <li class="{% if item.link == page.url %}active{% endif %}">
+        <li class="{% if item in page.url %}active{% endif %}">
             <a href="/{{ item }}">{{ item | pretty }}</a>
         </li>
         {% endfor %}
-
     </ul>
     
     {% include "_base/socials.njk" %}
