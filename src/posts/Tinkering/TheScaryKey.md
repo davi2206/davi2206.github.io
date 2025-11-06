@@ -2,7 +2,7 @@
 tags: tinkering
 layout: _article.njk
 title: "The Scary Key"
-date: "2050-11-30"
+date: "2025-11-13"
 summary: "Turns out it is scary easy to 3D print a working key"
 ---
 
@@ -17,9 +17,9 @@ For me it seemed like duplicating the kay would be a lot more complicated, witho
 After considering the task for a while I realized that maybe the details on the key were not that important. Simply printing a key slim enough to bypass the grooves might work. Of course, the key might not be strong enough to turn the tumbler, but if it could slide in and set all the pins correctly, a flathead screwdriver could be used as a wrench to turn the lock.
 
 
-I immediately wanted to test this theory, and how long it would take to get it to work. I have a clear padlock laying around, for training lockpicking (Just for the hobby). I took a quick photo of the key for that lock and imported the image into CAD. I am using Fusion 360, because it is free and quite powerful.
+I immediately wanted to test this theory, and how long it would take to get it to work. I have a clear padlock laying around, for training lock picking (Just for the hobby). I took a quick photo of the key for that lock and imported the image into CAD. I am using Fusion 360, because it is free and quite powerful.
 
-It didn't take too long to sketch out the key, by simply drawing shapes over the teeth of the key. I extruded the key image just a few millimetres. Just enough to have some structure, but still thin enough that it would easily slide into the lock. 
+It didn't take too long to sketch out the key, by simply drawing shapes over the teeth of the key. I extruded the key image just a few millimeters. Just enough to have some structure, but still thin enough that it would easily slide into the lock. 
 
 Using OctoPrint on my RaspberryPi and my Ender 3, I printed my key. As soon as the key was finished I tested it on the padlock. It was very snug, and almost didn't fit in the cylinder, but after a little bit of wiggling the lock popped open. The key held up just fine, and I didn't need a screwdriver to wrench the cylinder. 
 
