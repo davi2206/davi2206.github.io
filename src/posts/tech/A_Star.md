@@ -1,5 +1,5 @@
 ---
-tags: Software_Projects
+tags: tech
 layout: _article.njk
 title: "A-Star Algorithm"
 date: "2050-11-30"

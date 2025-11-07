@@ -2,7 +2,7 @@
 tags: lore
 layout: _article.njk
 title: "Lost in Sweden"
-date: "2025-11-10"
+date: "2025-11-13"
 summary: "After great travels deep into the cold north, my friend and I lost our transportation home"
 featured: false
 ---
