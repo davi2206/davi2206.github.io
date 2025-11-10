@@ -19,7 +19,7 @@ The stories will include recordings of my travels through the world, like when I
 The projects will include different algorithms I try to implements in JavaScript or Python, as well as leather workings and writing journeys. <br>
 The articles will include spiritual explorations and personal recommendations. 
 
-**Excerps of ideas list:**
+**Excerpts of ideas list:**
 - Lost in Sweden, travel story
 - The Pretty Becks Project, gardening adventure
 - A-Star algorithm, JavaScript programming
