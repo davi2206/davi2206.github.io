@@ -1,54 +1,76 @@
 
 # Posts, w. post date
-| Done | Title                  | Category  | Post date |
-| ---- | -----                  | --------- | --------- |
-|  X   | Welcome to NorthLore   | Spiritual | 01/11     |
-|  X   | Tremek                 | Lore      | 06/11     |
-|  X   | Lost in Sweden         | Lore      | 10/11     |
-|  X   | The Scary Key          | Tinkering | 13/11     |
-|      | Fall                   | Spiritual | 17/11     | <-- Write all these in W45
-|      |                        |           | 20/11     |
-|      |                        |           | 24/11     |
-|      |                        |           | 27/11     |
-|  X   | I Love you - And 1000..| Spiritual | 01/12     | <-- Write these in W46
-|      |                        |           | 07/12     |
-|      |                        |           | 14/12     |
-|      | Winter                 | Spiritual | 21/12     | Post on Winter Solstice
-|      |                        |           | 28/12     | <-- W47
-|      |                        |           | 13/01     |
-|      | 30 Shitty Short Stor.. | Writing   | 27/01     | <-- W48
-|      |                        |           | 10/02     |
-|      |                        |           | 24/02     |
-|      |                        |           | 10/03     |
-|      |                        |           | 24/03     |
-|      |                        |           | 07/03     |
-|      | Spring                 | Spiritual | 20/03     | Post on Spring Equinox
-|      | Summer                 | Spiritual | Later     | Jun 21. is summer solstice
+| Done | Title                  | Category  | Post date | Suggestions  |
+| ---- | ---------------------- | --------- | --------- | ------------ |
+|  X   | Welcome to NorthLore   | Spiritual | 01/11     |              |
+|  X   | Tremek                 | Lore      | 06/11     |              |
+|  X   | The November Project   | Article   | 10/11     |              |
+|  X   | The Scary Key          | Tinkering | 13/11     |              |
+|      | Fall                   | Spiritual | 17/11     |              | 1
+|  X   | Lost in Sweden         | Lore      | 20/11     |              |
+|  X   | I Love you - And 1000..| Spiritual | 24/11     |              |
+|      |                        | Tech      |           |              | 2
+|      |                        | Tinkering |           |              | 3
+|      |                        | Writing   |           |              | 4
+|      |                        | Tech      |           |              |
+|      |                        | Tinkering |           |              |
+|      | Winter                 | Spiritual | 21/12     |              | Post on Winter Solstice
+|      |                        | Writing   |           |              |
+|      |                        | Tech      |           |              |
+|      |                        | Lore      |           |              |
+|      |                        | Spiritual |           |              |
+|      |                        | Tinkering |           |              |
+|      |                        | Writing   |           |              |
+|      |                        | Lore      |           |              |
+|      |                        |           |           |              |
+|      | Spring                 | Spiritual | 20/03     |              | Post on Spring Equinox
+|      | Summer                 | Spiritual | Later     |              | Jun 21. is summer solstice
 
 
-Lore:
-- The Wicked Witch
+Lore: Stories about places, travel, adventures, experiences, 
+- The Wicked 
+    - I traveled far west to meet the old witch
+    - Maybe she is not as bad as the stories let us to believe
+- Rooftrellen (W)
 
-Spiritual:
+Spiritual: Feelings, wondering, reflection, existential
+- Winter, Spring, Summer
+    - My personal experience
+    - Colors, smells, feelings
 - Mission, Vision, Strategy
+- The Wolf
+- The Raven
+- The Snake
 
-Tinkering:
-- Pretty Becks Project
+Tinkering: Projects, crafts, gardening, creative, maker space, 
+- Pretty Becks Project: The story of how I grew cress, taller than a house
 
-Software:
-- A-Star
+Tech: Software, websites, algorithms, computing, soldering, 
+- Algorithms: Step by step explanation of what they do, and a simple implementation
+    - A-Star
+        - Explanation and Code snippets
+        - GIF of it running
+        - Link to working JS model
+    - Maze gens
+    - Wave Function Collapse:
+        - Sudoku
+        - image gen
 - Hacked
-- Wave Function Collapse
 
-
-Other
+Writing: Books, process, thoughts, struggles, 
+- 30 SS: The process, the writing, the selection of stories, the design, the publishing, the lot...
+    - Link to it from November Project
+- 1000 words I had in my pocket
+- Crafting of glass pearls
+- Hells
 - Writing Challenge - write 60 min average pr. day for a month
     - Shorts
     - Poetry
     - SoMe posts
     - Articles
-    - 
 
+Other
+- The November Project
 
 
 
