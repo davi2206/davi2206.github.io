@@ -1,5 +1,5 @@
 ---
-tags: tinkering
+tags: the_forge
 layout: _article.njk
 title: "The Scary Key"
 date: "2025-11-13"

@@ -1,5 +1,5 @@
 ---
-tags: tech
+tags: codeworks
 layout: _article.njk
 title: "What if I told you, you just got Hacked?"
 date: "2050-11-30"
