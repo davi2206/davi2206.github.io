@@ -2,7 +2,7 @@
 tags: tinkering
 layout: _article.njk
 title: "The Scary Key"
-date: "2025-11-10"
+date: "2025-11-13"
 summary: "Turns out it is scary easy to 3D print a working key"
 ---
 
