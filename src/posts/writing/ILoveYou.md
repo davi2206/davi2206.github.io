@@ -1,5 +1,5 @@
 ---
-tags: spiritual
+tags: writing
 layout: _article.njk
 title: "I Love You - And 1,000 other lies I told today"
 date: "2025-11-24"

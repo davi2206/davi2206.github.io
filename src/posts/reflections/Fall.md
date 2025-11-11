@@ -1,5 +1,5 @@
 ---
-tags: spiritual
+tags: reflections
 layout: _article.njk
 title: "Fall"
 date: "2050-11-30"
