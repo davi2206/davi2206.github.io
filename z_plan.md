@@ -1,45 +1,47 @@
 
 # Posts, w. post date
-| Done | Title                  | Category  | Post date | Suggestions  |
-| ---- | ---------------------- | --------- | --------- | ------------ |
-|  X   | Welcome to NorthLore   | Spiritual | 01/11     |              |
-|  X   | Tremek                 | Lore      | 06/11     |              |
-|  X   | The November Project   | Article   | 10/11     |              |
-|  X   | The Scary Key          | Tinkering | 13/11     |              |
-|      | Fall                   | Spiritual | 17/11     |              | 1
-|  X   | Lost in Sweden         | Lore      | 20/11     |              |
-|  X   | I Love you - And 1000..| Spiritual | 24/11     |              |
-|      |                        | Tech      |           |              | 2
-|      |                        | Tinkering |           |              | 3
-|      |                        | Writing   |           |              | 4
-|      |                        | Tech      |           |              |
-|      |                        | Tinkering |           |              |
-|      | Winter                 | Spiritual | 21/12     |              | Post on Winter Solstice
-|      |                        | Writing   |           |              |
-|      |                        | Tech      |           |              |
-|      |                        | Lore      |           |              |
-|      |                        | Spiritual |           |              |
-|      |                        | Tinkering |           |              |
-|      |                        | Writing   |           |              |
-|      |                        | Lore      |           |              |
-|      |                        |           |           |              |
-|      | Spring                 | Spiritual | 20/03     |              | Post on Spring Equinox
-|      | Summer                 | Spiritual | Later     |              | Jun 21. is summer solstice
+| Done | Title                  | Category    | Post date | Suggestions  |
+| ---- | ---------------------- | ----------- | --------- | ------------ |
+|  X   | Welcome to NorthLore   | Reflections | 01/11     |              |
+|  X   | Tremek                 | Lore        | 06/11     |              |
+|  X   | The November Project   | Forge       | 10/11     |              |
+|  X   | The Scary Key          | Forge       | 13/11     |              |
+|  X   | Rooftrellen            | Lore        | 17/11     |              |
+|  X   | Lost in Sweden         | Lore        | 20/11     |              |
+|  X   | I Love you - And 1000..| Reflections | 24/11     |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        |             |           |              |
+|      |                        | Reflections | 20/03     | Spring       | Spring Equinox
+|      |                        | Reflections | 21/06     | Summer       | Summer solstice
+|      |                        | Reflections | 22/09     | Fall         | Fall Equinox
+|      |                        | Reflections | 21/12     | Winter       | Winter Solstice
 
 
 Lore: Stories about places, travel, adventures, experiences, 
-- The Wicked 
+- The Wicked Witch
     - I traveled far west to meet the old witch
     - Maybe she is not as bad as the stories let us to believe
-- Rooftrellen (W)
 
-Spiritual: Feelings, wondering, reflection, existential
-- Winter, Spring, Summer
+Reflections: Feelings, wondering, reflection, existential
+- Winter, Spring, Summer, Fall
     - My personal experience
     - Colors, smells, feelings
 - Mission, Vision, Strategy
-- The Wolf
-- The Raven
+- The Wolf: Strong, shy, pack, howl, 
+- The Raven: Perspective, speed, knowledge, 
+- Boar
 - The Snake
 
 Tinkering: Projects, crafts, gardening, creative, maker space, 
@@ -58,7 +60,7 @@ Tech: Software, websites, algorithms, computing, soldering,
 - Hacked
 
 Writing: Books, process, thoughts, struggles, 
-- 30 SS: The process, the writing, the selection of stories, the design, the publishing, the lot...
+- "Everyone says they would write a book, if they had the time": 30 SS: The process, the writing, the selection of stories, the design, the publishing, the lot...
     - Link to it from November Project
 - 1000 words I had in my pocket
 - Crafting of glass pearls
@@ -68,10 +70,6 @@ Writing: Books, process, thoughts, struggles,
     - Poetry
     - SoMe posts
     - Articles
-
-Other
-- The November Project
-
 
 
 
