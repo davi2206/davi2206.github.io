@@ -6,22 +6,22 @@
 |  X   | Tremek                 | Lore        | 06/11     |              |
 |  X   | The November Project   | Forge       | 10/11     |              |
 |  X   | The Scary Key          | Forge       | 13/11     |              |
-|  X   | Rooftrellen            | Lore        | 17/11     |              |
+|  X   | Rooftrellen            | Lore        | 17/11     |              | 5
 |  X   | Lost in Sweden         | Lore        | 20/11     |              |
-|  X   | I Love you - And 1000..| Reflections | 24/11     |              |
+|  X   | I Love you - And 1000..| Writing     | 24/11     |              |
+|  W   |                        | Reflections | 27/11     |              |
+|  X   | 30 Shitty Short Stories| Writing     | 30/11     |              |
+|      |                        |             | 05/12     |              | 10
+|      |                        |             | 10/12     |              |
+|      |                        |             | 15/12     |              |
+|      |                        |             | 20/12     |              |
+|      |                        |             | 25/12     |              |
+|      |                        |             | 30/12     |              | 15 Goal for November
 |      |                        |             |           |              |
 |      |                        |             |           |              |
 |      |                        |             |           |              |
 |      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
-|      |                        |             |           |              |
+|      |                        |             |           |              | 20 Utopian goal for November
 |      |                        |             |           |              |
 |      |                        | Reflections | 20/03     | Spring       | Spring Equinox
 |      |                        | Reflections | 21/06     | Summer       | Summer solstice
@@ -39,12 +39,12 @@ Reflections: Feelings, wondering, reflection, existential
     - My personal experience
     - Colors, smells, feelings
 - Mission, Vision, Strategy
-- The Wolf: Strong, shy, pack, howl, 
-- The Raven: Perspective, speed, knowledge, 
+- Wolf: Strong, shy, pack, howl, 
+- Raven: Perspective, speed, knowledge, 
 - Boar
-- The Snake
+- Snake
 
-Tinkering: Projects, crafts, gardening, creative, maker space, 
+Forge: Projects, crafts, gardening, creative, maker space, 
 - Pretty Becks Project: The story of how I grew cress, taller than a house
 
 Tech: Software, websites, algorithms, computing, soldering, 
@@ -57,11 +57,12 @@ Tech: Software, websites, algorithms, computing, soldering,
     - Wave Function Collapse:
         - Sudoku
         - image gen
+- Bubbles in the system: Bugs that disappear as soon as we touch them, never to be seen again. We can't know what caused them, if they will come back, if they are bad or not, and we can't trace them. 
 - Hacked
 
 Writing: Books, process, thoughts, struggles, 
-- "Everyone says they would write a book, if they had the time": 30 SS: The process, the writing, the selection of stories, the design, the publishing, the lot...
-    - Link to it from November Project
+- 30 SS 2: The process, the writing, the selection of stories, the design, the publishing, the lot...
+    - Write when you have the stories, and make it more about the process, from folder of docx files to printed book
 - 1000 words I had in my pocket
 - Crafting of glass pearls
 - Hells
@@ -72,40 +73,3 @@ Writing: Books, process, thoughts, struggles,
     - Articles
 
 
-
-AI suggestions:
-The Old Path
-Follow the worn trail between forest and memory. Some paths lead home; others lead deeper into who you’ve always been.
-
-The Lantern Workshop
-Craft a lantern to guide your way through the dark months — a light made not just of flame, but of intention.
-
-Spirit of the North Wind
-Meet the breath of winter itself — sharp, cleansing, and ancient. The North Wind has much to teach about stillness and strength.
-
-The Forgotten Village
-A tale of the village that slipped between seasons — where ghosts linger, and stories keep the fires burning.
-
-How to Build a Rune Compass
-A guide for those who seek direction beyond north and south — a handmade compass of runes, intuition, and quiet purpose.
-
-Fire in the Dark
-In the heart of winter, even the smallest flame becomes sacred. A story about warmth, endurance, and the courage to glow.
-
-The Long Night’s Craft
-Winter’s stillness invites creation. Here are crafts and rituals to keep your hands busy and your spirit steady through the dark.
-
-Writing Myth Like You Mean It
-What happens when you write myths not as fiction, but as truth? A call to breathe real life into your stories.
-
-The Metal and the Spirit
-Between forge and fire, metal remembers the maker. A reflection on crafting, transformation, and the weight of your own intent.
-
-Dreaming Trees
-Beneath the bark, the forest dreams in slow, ancient rhythms. Listen closely — the roots are whispering your name.
-
-Through the Fog
-When the way forward disappears, maybe that’s the moment you start to see. A story about trust, loss, and clarity.
-
-Songs of the Hearth
-The warmth of a fire, the sound of bread cracking — quiet poetry in the everyday. Stories are waiting in your own kitchen.
