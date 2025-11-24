@@ -29,7 +29,7 @@ module.exports = function (eleventyConfig) {
         return randomElement;
     });
 
-    eleventyConfig.addFilter("pretty", (string) => {
-        return string.replace('_', ' ');
+    eleventyConfig.addFilter("pretty", (value) => {
+        return value.replace('_', ' ');
     });
 };

@@ -4,6 +4,7 @@
     <h2>
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>
+    <h6>{{ story.data.tags }}</h6>
   </header>
   <div style="font-style: italic">
     {{ story.data.summary | truncate(150) | safe }}

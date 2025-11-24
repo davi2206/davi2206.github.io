@@ -6,6 +6,7 @@
     <h2>
       <a href="{{ story.url }}">{{ story.data.title }}</a>
     </h2>
+    <h6>{{ story.data.tags }}</h6>
     <div>
       {{ story.data.summary | truncate(500) | safe }}
     </div>

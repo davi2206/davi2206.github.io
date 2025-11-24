@@ -11,7 +11,7 @@ collectionName: "posts"
 
     <!-- Posts -->
     <section class="posts">
-        {% for story in collections.posts | limit(6) | reverse %}
+        {% for story in collections.posts | reverse | limit(6) %}
             {% include "post_preview.njk" %}
         {% endfor %}
     </section>

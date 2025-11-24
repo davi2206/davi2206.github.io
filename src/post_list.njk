@@ -16,7 +16,7 @@ eleventyComputed:
 <div id="main">
     <!-- Posts -->
     <section class="posts">
-        {% for story in collections[tag] %}
+        {% for story in collections[tag] | reverse %}
             {% include "post_preview.njk" %}
         {% endfor %}
     </section>
