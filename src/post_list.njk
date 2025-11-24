@@ -9,7 +9,7 @@ pagination:
 permalink: /{{ tag | slug }}/index.html
 layout: _base.njk
 eleventyComputed:
-  title: "{{ tag | pretty }}"
+  title: "{{ tag | pretty | capital }}"
 ---
 
 <!-- Main -->

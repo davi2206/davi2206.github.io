@@ -32,4 +32,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("pretty", (value) => {
         return value.replace('_', ' ');
     });
+
+    eleventyConfig.addFilter("capital", value => {
+        return String(value).charAt(0).toUpperCase() + String(value).slice(1);
+    });
 };
