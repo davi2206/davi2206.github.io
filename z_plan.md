@@ -9,9 +9,8 @@
 |  X   | Rooftrellen            | Lore        | 17/11     |              | 5
 |  X   | Lost in Sweden         | Lore        | 20/11     |              |
 |  X   | I Love you - And 1000..| Writing     | 24/11     |              |
-|  W   |                        | Reflections | 27/11     |              |
 |  X   | 30 Shitty Short Stories| Writing     | 30/11     |              |
-|      |                        |             | 05/12     |              | 10
+|      |                        | Reflections?| 05/12     |              | 10
 |      |                        |             | 10/12     |              |
 |      |                        |             | 15/12     |              |
 |      |                        |             | 20/12     |              |
@@ -39,12 +38,16 @@ Reflections: Feelings, wondering, reflection, existential
     - My personal experience
     - Colors, smells, feelings
 - Mission, Vision, Strategy
-- Wolf: Strong, shy, pack, howl, 
-- Raven: Perspective, speed, knowledge, 
-- Boar
-- Snake
+    - Mission: What are we working on and towards, right now? Why are we here?
+    - Vision: The future goal and purpose. Short, utopian goal. 
+    - Strategy: How do we plan to move from the Mission towards the Vision? What steps can we take? How do we ensure progress and keeping the direction?
+    - Values: List of core values
+- Who am I? introduction to me, my self image, my doubts. Write about being lonely and introverted
+- Who am I? MasterAlerion edition. Introduction, self image, goals in life, plans
+- Wolf, Raven, Boar, Snake
 
 Forge: Projects, crafts, gardening, creative, maker space, 
+- Follow up on The November Project
 - Pretty Becks Project: The story of how I grew cress, taller than a house
 
 Tech: Software, websites, algorithms, computing, soldering, 
@@ -72,4 +75,6 @@ Writing: Books, process, thoughts, struggles,
     - SoMe posts
     - Articles
 
-
+Other:
+- Photo challenge. Take pictures of a list of targets. Scavenger hunt style
+    - Write the idea, and the execution. Add the resulting pictures, and challenge readers to complete the challenge, and submit images

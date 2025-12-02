@@ -9,7 +9,7 @@ summary: ""
 As the light fades, and it gets colder, wetter. 
 Fog, melancholy. 
 Frost at night, warm by day
-You can feel it, hear it, small it. Ruffling in the leaves. Wet grass. Spiritual chill, through the bones. 
+You can feel it, hear it, small it. Ruffling in the leaves. Wet grass. Spiritual chill through the bones. 
 
 
 
