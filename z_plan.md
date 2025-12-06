@@ -10,7 +10,7 @@
 |  X   | Lost in Sweden         | Lore        | 20/11     |              |
 |  X   | I Love you - And 1000..| Writing     | 24/11     |              |
 |  X   | 30 Shitty Short Stories| Writing     | 30/11     |              |
-|      |                        | Reflections?| 05/12     |              | 10
+|      | Followup: The Nov. Proj| Forge       | 05/12     |              | 10
 |      |                        |             | 10/12     |              |
 |      |                        |             | 15/12     |              |
 |      |                        |             | 20/12     |              |
@@ -20,7 +20,7 @@
 |      |                        |             |           |              |
 |      |                        |             |           |              |
 |      |                        |             |           |              |
-|      |                        |             |           |              | 20 Utopian goal for November
+|      |                        |             |           |              | 20 Goal for December (?)
 |      |                        |             |           |              |
 |      |                        | Reflections | 20/03     | Spring       | Spring Equinox
 |      |                        | Reflections | 21/06     | Summer       | Summer solstice
@@ -34,6 +34,7 @@ Lore: Stories about places, travel, adventures, experiences,
     - Maybe she is not as bad as the stories let us to believe
 
 Reflections: Feelings, wondering, reflection, existential
+- League of Silence - A society (And discord server)
 - Winter, Spring, Summer, Fall
     - My personal experience
     - Colors, smells, feelings
@@ -47,7 +48,6 @@ Reflections: Feelings, wondering, reflection, existential
 - Wolf, Raven, Boar, Snake
 
 Forge: Projects, crafts, gardening, creative, maker space, 
-- Follow up on The November Project
 - Pretty Becks Project: The story of how I grew cress, taller than a house
 
 Tech: Software, websites, algorithms, computing, soldering, 
