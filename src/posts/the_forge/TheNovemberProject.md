@@ -16,20 +16,20 @@ Feel free to get in touch, to keep me on track, or simply ask about any projects
 
 Let it also be a deep and heartfelt Thank You, to the people who made this possible. My People Lead, my Project Managers and my colleagues who are covering the workload, while I am away. This would never have been possible without the great people around me. You are all very much appreciated. <br>
 
-## The projects
+## The Projects
 First off, I'm hoping to improve on myself just a little bit. I have hundreds of books that I want to read but with my regular daily routine, they all just sit on a shelf, gathering dust. I am planing to get some reading done, and hopefully make it a habit to read more. <br>
-In addition to the mental self improvement, I am hoping to start exercising. Not mch, and not to get completely ripped. But a half hour walk, or a few minutes strengthening my core, will go a long way. I am hoping to also make this a habit. 20-30 minutes every day, will be a big improvement. I try to refer to it as "Mandatory Physical Self Improvement", as that emphasizes the importance of getting off my ass, instead of growing roots on my couch. (And it also sounds cool)
+In addition to the mental self improvement, I am hoping to start exercising. Not much, and not to get completely ripped. But a half hour walk, or a few minutes strengthening my core, will go a long way. I am hoping to also make this a habit. 20-30 minutes every day, will be a big improvement. I try to refer to it as "Mandatory Physical Self Improvement", as that emphasizes the importance of getting off my ass, instead of growing roots on my couch. (And it also sounds cool)
 
 ### Businesses
 **Books**<br>
 As I mentioned I have hundreds of books. Most of which I have gotten i bulk from people. This means some of them are duplicates, or just books I will never read. Those need to be sold or given away. I am planing to upload them to Vinted and maybe Facebook Marketplace, to get rid of them. That way they don't go to waste, and I make a small dollar from them. Alternatively they can be given away to family, friends or goodwill. 
 
-**Side hustle**<br>
+**Side Hustle**<br>
 Over the last few years I have been looking at options for starting a side hustle, to make a little extra on the side. One thing I may want to try is to create printable designs and sell the digital files. I have several ideas for Zines and posters, that might work. I am considering using Etsy, or similar platforms, to sell the products. <br>
 The goal is to have at least a handful of designs for sale, and hopefully make a few sales. I don't expect this to make me rich, but if I can make a profit of any kind, that will be amazing. 
 
 ### Writing
-**Website content** <br>
+**Website Content** <br>
 I have set up this website, but it needs content. I have a whole list of posts, articles and projects I want to present here. And now I have the time to write them as well. The plan is to write and schedule at least 3-4 posts pr. week. By the end of the month, I should have 15-20 posts ready for the site. They will not all be live at that time, as I will schedule them to be posted over several months, which will give me great peace, knowing the site will be somewhat active for the rest of the year, and maybe even longer. I don't plan on having a strict posting schedule after that. Instead I will be trying to write posts, when I have something I feel like sharing, and hopefully the content here will be evergreen enough that people enjoy it, even when there is nothing new for a few weeks or even months. <br>
 But for now, for the November project, I will be working on filling the site with content, so it has a solid base, to live its own life for a while. 
 
@@ -54,10 +54,10 @@ I also have several notes on my PC and phone, with things I need to remember, pr
 Lastly, I want to clean out some of my email accounts. I have way too many from different things, and for different purposes. I have a hotmail, a gmail, accounts for my Slow Loris domain (which is being decommissioned) and accounts for the NorthLore domain. I want to scrap most of those. But that means updating all my accounts. Which in tern means going through my password manager, logging into everything I ever created an account for and changing the login information. <br>
 My password manager has just over 400 entries in it. I guess this is a great opportunity to also clean that out and close accounts I no longer need or want. 
 
-**The windowsills and such**<br>
+**The Windowsills and such**<br>
 How often do you empty your windowsills and properly clean them? How about your kitchen cabinets and drawers? I know I almost never have the time to do all that. November is that time. Deep cleaning windowsills, shelves, kitchen drawers and cabinets etc.
 
-**The garage && Shed**<br>
+**The Garage && Shed**<br>
 These out-of-the-house areas are great for storing things you don't know where to put. But I have reached a point where I can barely get in my shed, because too many things are taking up tons of space. It needs to be cleaned out. Things that I will never use will be set for sale or thrown out. Things I need to keep, has to be packed away properly, in boxes, on shelves. The same goes for the garage. That is not quite as filled, but I assume it is a matter of time, before it will be. Cleaning, sorting, packing, stacking, and throwing old crap away will be another few hours of work at least. 
 
 ## The Status
