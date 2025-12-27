@@ -4,6 +4,7 @@ layout: _article.njk
 title: "League of Silence"
 date: "2025-12-25"
 summary: "A society of like-minded people"
+featured: true
 ---
 Don't we all have a small dream of joining, or even better, starting a secret organization? A group of people who has secrets and a common mission. And maybe even a secret handshake!
 

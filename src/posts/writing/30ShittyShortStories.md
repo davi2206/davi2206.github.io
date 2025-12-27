@@ -4,6 +4,7 @@ layout: _article.njk
 title: "30 Shitty Short Stories"
 date: "2025-11-30"
 summary: "Everyone says they would write a book, if they had the time"
+featured: true
 ---
 
 For a long time I had a post-it note on my whiteboard in my office, with the text "Everyone says they would write a book, if they had the time. So will you actually do it, or is it all talk?". It was meant to motivate me to write stories for a book I have been planing for years, but never gotten done. 

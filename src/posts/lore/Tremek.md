@@ -4,6 +4,7 @@ layout: _article.njk
 title: "Tremek"
 date: "2025-11-06"
 summary: "The history of a City"
+featured: true
 ---
 
 Over the last many years, I have been playing Minecraft on a few different servers. 
