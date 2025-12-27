@@ -15,6 +15,8 @@ module.exports = function (eleventyConfig) {
     passThrough(eleventyConfig);
     customCollections(eleventyConfig);
 
+    eleventyConfig.addGlobalData("styleModifier", require('./eleventy-config/styleModifier'));
+
     eleventyConfig.addPlugin(rssPlugin);
 
     // Exclude future posts
