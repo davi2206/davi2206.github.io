@@ -12,10 +12,10 @@
 |   8  | 30 Shitty Short Stories    | Writing     | 30/11     |              |
 |   9  | Followup: The Nov. Project | Forge       | 20/12     |              |
 |  10  | League of Silence          | Reflections | 25/12     |              |
-|  xx  |                            |             | 15/12     | Writing chal.|
-|  xx  |                            |             | 20/12     |              |
-|  xx  |                            |             | 25/12     |              |
-|  xx  |                            |             | 30/12     |              |
+|  xx  |                            |             |           | End of year  |
+|  xx  |                            |             |           | Writing chal.|
+|  xx  |                            |             |           |              |
+|  xx  |                            |             |           |              |
 |  xx  |                            |             |           |              |
 |  xx  |                            |             |           |              |
 |  xx  |                            |             |           |              |
@@ -34,7 +34,6 @@ Lore: Stories about places, travel, adventures, experiences,
     - Maybe she is not as bad as the stories let us to believe
 
 Reflections: Feelings, wondering, reflection, existential
-- League of Silence - A society (And discord server)
 - Winter, Spring, Summer, Fall
     - My personal experience
     - Colors, smells, feelings
@@ -46,6 +45,7 @@ Reflections: Feelings, wondering, reflection, existential
 - Who am I? introduction to me, my self image, my doubts. Write about being lonely and introverted
 - Who am I? MasterAlerion edition. Introduction, self image, goals in life, plans
 - Wolf, Raven, Boar, Snake
+- Loss: The feelings, new reality, grief, confusion, numbness, 
 
 Forge: Projects, crafts, gardening, creative, maker space, 
 - Pretty Becks Project: The story of how I grew cress, taller than a house
