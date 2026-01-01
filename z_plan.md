@@ -46,6 +46,7 @@ Reflections: Feelings, wondering, reflection, existential
 - Who am I? MasterAlerion edition. Introduction, self image, goals in life, plans
 - Wolf, Raven, Boar, Snake
 - Loss: The feelings, new reality, grief, confusion, numbness, 
+- Forests and their secrets
 
 Forge: Projects, crafts, gardening, creative, maker space, 
 - Pretty Becks Project: The story of how I grew cress, taller than a house
