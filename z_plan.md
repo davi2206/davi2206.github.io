@@ -1,32 +1,31 @@
 
 # Posts, w. post date
-| Done | Title                      | Category    | Post date | Suggestions  |
-| ---- | -------------------------- | ----------- | --------- | ------------ |
-|   1  | Welcome to NorthLore       | Reflections | 01/11     |              |
-|   2  | Tremek                     | Lore        | 06/11     |              |
-|   3  | The November Project       | Forge       | 10/11     |              |
-|   4  | The Scary Key              | Forge       | 13/11     |              |
-|   5  | Rooftrellen                | Lore        | 17/11     |              |
-|   6  | Lost in Sweden             | Lore        | 20/11     |              |
-|   7  | I Love you - And 1000 oth..| Writing     | 24/11     |              |
-|   8  | 30 Shitty Short Stories    | Writing     | 30/11     |              |
-|   9  | Followup: The Nov. Project | Forge       | 20/12     |              |
-|  10  | League of Silence          | Reflections | 25/12     |              |
-|  xx  |                            |             |           | End of year  |
-|  xx  |                            |             |           | Writing chal.|
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              |
-|  xx  |                            |             |           |              | Goal for December (?)
-|      |                            | Reflections | 20/03     | Spring       | Spring Equinox
-|      |                            | Reflections | 21/06     | Summer       | Summer solstice
-|      |                            | Reflections | 22/09     | Fall         | Fall Equinox
-|      |                            | Reflections | 21/12     | Winter       | Winter Solstice
-
+| Done | Title                      | Category    | Post date | Suggestions  | Post on Socials |
+| ---- | -------------------------- | ----------- | --------- | ------------ | --------------- |
+|   1  | Welcome to NorthLore       | Reflections | 01/11     |              | -               |
+|   2  | Tremek                     | Lore        | 06/11     |              | -               |
+|   3  | The November Project       | Forge       | 10/11     |              | Done            |
+|   4  | The Scary Key              | Forge       | 13/11     |              | -               |
+|   5  | Rooftrellen                | Lore        | 17/11     |              | Done            |
+|   6  | Lost in Sweden             | Lore        | 20/11     |              |                 |
+|   7  | I Love you - And 1000 oth..| Writing     | 24/11     |              |                 |
+|   8  | 30 Shitty Short Stories    | Writing     | 30/11     |              |                 |
+|   9  | Followup: The Nov. Project | Forge       | 20/12     |              |                 |
+|  10  | League of Silence          | Reflections | 25/12     |              | Do After jan 15.|
+|  xx  |                            |             |           | 2026 bingo   |                 |
+|  xx  |                            |             |           | Writing chal.|                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 |
+|  xx  |                            |             |           |              |                 | Goal for December (?)
+|      |                            | Reflections | 20/03     | Spring       |                 | Spring Equinox
+|      |                            | Reflections | 21/06     | Summer       |                 | Summer solstice
+|      |                            | Reflections | 22/09     | Fall         |                 | Fall Equinox
+|      |                            | Reflections | 21/12     | Winter       |                 | Winter Solstice
 
 Lore: Stories about places, travel, adventures, experiences, 
 - The Wicked Witch
@@ -47,6 +46,7 @@ Reflections: Feelings, wondering, reflection, existential
 - Wolf, Raven, Boar, Snake
 - Loss: The feelings, new reality, grief, confusion, numbness, 
 - Forests and their secrets
+- 2026 Bingo
 
 Forge: Projects, crafts, gardening, creative, maker space, 
 - Pretty Becks Project: The story of how I grew cress, taller than a house
