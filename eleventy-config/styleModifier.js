@@ -4,7 +4,8 @@ module.exports = () => {
   const month = now.getMonth() + 1; // 1-12
   const day = now.getDate(); // 1-31 Apparently months are 0-indexed, but dates are not..
 
-  if (month == 1 && day < 15) {
+  // Early January
+  if (month == 1 && day < 10) {
     return {
       season: 'new_year',
       bgImage: '/images/bg_newyear.png',
@@ -14,6 +15,7 @@ module.exports = () => {
     };
   }
 
+  // Late October
   if (month == 10 && day > 25) {
     return {
       season: 'halloween',
@@ -24,6 +26,7 @@ module.exports = () => {
     };
   }
 
+  // October
   if (month == 10) {
     return {
       season: 'halloween',
@@ -34,6 +37,7 @@ module.exports = () => {
     };
   }
 
+  // December
   if (month == 12 && day < 28) {
     return {
       season: 'christmas',
@@ -44,9 +48,10 @@ module.exports = () => {
     };
   }
 
+  // End of December
   if (month == 12 && day >= 28) {
     return {
-      season: 'christmas',
+      season: 'new_year',
       bgImage: '/images/bg_newyear.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0.5)',
@@ -54,6 +59,7 @@ module.exports = () => {
     };
   }
 
+  // Rest of the year
   return {
     season: 'default',
     bgImage: '/images/bg.jpg',
