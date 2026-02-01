@@ -2,7 +2,7 @@
 tags: the_forge
 layout: _article.njk
 title: "2026 Bingo"
-date: "2026-01-30"
+date: "2026-02-01"
 summary: "A new year has started, and it is time to make a plan"
 ---
 
