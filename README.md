@@ -2,14 +2,18 @@
 
 # Getting started
 
-## Install Luxzon
+## Install 
+### Luxzon
 Library for working with dates and time
 
 ```npm install --save luxon```
 
+### Image library
+```npm install --save @11ty/eleventy-img```
+
 
 ## Start project locally
-```npx @11ty/eleventy --serve```
+```npx @11ty/eleventy --serve --port 4200```
 
 
 ## Deploy
