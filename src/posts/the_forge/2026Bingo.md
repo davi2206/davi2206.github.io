@@ -55,8 +55,9 @@ A short explanation, to try and clarify what these all mean: <br>
 **Realistic**: Don't set goals that you know can't be reached. I was considering saying "Walk 52*5km". It is not impossible to walk 5km once a week, but I know that I would never get that done. I would fall behind, and never be able to catch up. 24 times is more realistic, and gives me space to overachieve. That is a moral boost, instead of a moral basher. <br>
 **Time-bound**: There has to be a deadline. For these new year's goal setting sessions, the default would be "This year". When setting your goals, think about if you want longer or shorter goals, and make the time limit make sense. <br>
 
-### Let us goal together
-Now that you have made a collection of good, sensible goals, I invite you to share them on Discord. I suggest using the "Achievements" channel. By sharing your goals, you make a pledge to anyone reading them, to do your best to follow through. You also open the opportunity for others to help you to stay on track, and motivate you. And more importantly, celebrate when you reach a goal, or make progress towards it. 
+
+### Let's goal together
+Now that you have made a collection of good, sensible goals, I invite you to share them on Discord. I suggest using the "<a href="https://discord.com/channels/1443984441264443423/1462031388701233163" target="_blank">Achievements</a>" channel. By sharing your goals, you make a pledge to anyone reading them, to do your best to follow through. You also open the opportunity for others to help you to stay on track, and motivate you. And more importantly, celebrate when you reach a goal, or make progress towards it. 
 
 I hope you will be playing along, and look forward to seeing your Bingo Cards and other goal games. 
 
