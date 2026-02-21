@@ -60,3 +60,15 @@ Now that you have made a collection of good, sensible goals, I invite you to sha
 
 I hope you will be playing along, and look forward to seeing your Bingo Cards and other goal games. <br>
 Good luck, and have fun!
+
+<hr>
+
+## TLDR; Milestones reached
+| Date | Goal | Note |
+| ----- | ---- | ---- |
+| 11/01 | 5K Walks | With scouts |
+| 18/01 | Read Books | A Christmas Carol |
+| 01/02 | NorthLore Posts | 2026 Bingo |
+| 01/02 | Read Books | Hurog: Dragon Blood |
+| 21/02 | 5K Walks | Saturday walk |
+
