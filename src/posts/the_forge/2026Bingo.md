@@ -66,9 +66,9 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date | Goal | Note |
 | ----- | ---- | ---- |
-| 11/01 | 5K Walks | With scouts |
-| 18/01 | Read Books | A Christmas Carol |
-| 01/02 | NorthLore Posts | 2026 Bingo |
-| 01/02 | Read Books | Hurog: Dragon Blood |
+| 26/02 | Read Books | Ternet Ninja 1 |
 | 21/02 | 5K Walks | Saturday walk |
-
+| 01/02 | Read Books | Hurog: Dragon Blood |
+| 01/02 | NorthLore Posts | 2026 Bingo |
+| 18/01 | Read Books | A Christmas Carol |
+| 11/01 | 5K Walks | With scouts |
