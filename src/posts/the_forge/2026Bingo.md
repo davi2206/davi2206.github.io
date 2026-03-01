@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date | Goal | Note |
 | ----- | ---- | ---- |
+| 01/03 | 5K Walks | St. Økssø, 2 rounds |
 | 26/02 | Read Books | Ternet Ninja 1 |
 | 21/02 | 5K Walks | Saturday walk |
 | 01/02 | Read Books | Hurog: Dragon Blood |
