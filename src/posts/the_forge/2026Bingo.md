@@ -12,7 +12,7 @@ One thing I found works, somewhat consistently, is gamifying the process. I rece
 
 I sat down, and I created my own set of goals. They are carefully curated, and selected to align with the direction I want my life to go. After much consideration, and several iterations, I ended with this 4x4 Bingo board:
 
-{% image "images/post-images/2026-Goals-Bingo.png", "Bingo Board of 2026 goals" %}
+{% image "images/post-images/2026_bingo/2026-Goals-Bingo.png", "Bingo Board of 2026 goals" %}
 
 My personal goals are mixed between experiences I want to have, things I want to learn, financial targets, and milestones I want to reach. They are all supposed to be ambitious, while still being realistic to reach over the next 11 months or so. But since it is set up as a game, there is no reason it _has_ to take that long. If I can hammer through all of these in 9 months, or even shorter, I will count that as a big win. The goal of Bingo is to fill your card before anyone else, so strapping in, and working towards that is important. <br>
 If you are curious or have any questions about the goals, feel free to reach out. I am happy to talk about them.
@@ -22,7 +22,7 @@ If you are curious or have any questions about the goals, feel free to reach out
 Obviously, some of these goals are not completed all at once (Ex. read 12 books). To keep track of those, I have created another tracker, to  follow the progress towards the goals, where that makes sense. <br>
 I printed out both the Bingo Card and the progress tracker. They are hanging on my whiteboard, next to my office desk, so they are always easy to see, to remind me to work towards what matters, instead of playing games, and slacking off. Obviously there has to be time for that as well, but I want to be better at doing things that push me forward. 
 
-{% image "images/post-images/Goal-Tracker.png", "Progress tracker for goals" %}
+{% image "images/post-images/2026_bingo/Goal-Tracker.png", "Progress tracker for goals" %}
 
 The idea is to color in a box on the tracker, every time I make progress in one of the goals. That way I can always see where i need to put in more work, and where I am well up to speed. As of writing this, I already finished one book (A Christmas Carol) and went for one 5km walk. When I publish this article, I get to color in a box under "NorthLore Posts" as well. <br>
 I will try and come back and update the image above as well, so anyone reading this in the future can see the progress I am (hopefully) making. 
@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date | Goal | Note |
 | ----- | ---- | ---- |
+| 29/03 | NorthLore Posts | Scoundrel |
 | 01/03 | 5K Walks | St. Økssø, 2 rounds |
 | 26/02 | Read Books | Ternet Ninja 1 |
 | 21/02 | 5K Walks | Saturday walk |
