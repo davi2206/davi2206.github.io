@@ -64,7 +64,7 @@ Good luck, and have fun!
 <hr>
 
 ## TLDR; Milestones reached
-| Date | Goal | Note |
+| Date  | Goal | Note |
 | ----- | ---- | ---- |
 | 29/03 | NorthLore Posts | Scoundrel |
 | 01/03 | 5K Walks | St. Økssø, 2 rounds |
