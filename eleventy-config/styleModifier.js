@@ -8,7 +8,7 @@ module.exports = () => {
   if (month == 1 && day < 10) {
     return {
       season: 'new_year',
-      bgImage: '/images/bg_newyear.png',
+      bgImage: '/assets/images/bg_newyear.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0.2)',
       overlayColor2: 'rgba(0, 0, 0, 0.1)'
@@ -19,7 +19,7 @@ module.exports = () => {
   if (month == 10 && day > 25) {
     return {
       season: 'halloween',
-      bgImage: '/images/bg_halloween.png',
+      bgImage: '/assets/images/bg_halloween.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0)',
       overlayColor2: 'rgba(0, 0, 0, 0)'
@@ -30,7 +30,7 @@ module.exports = () => {
   if (month == 10) {
     return {
       season: 'halloween',
-      bgImage: '/images/bg_fullmoon.png',
+      bgImage: '/assets/images/bg_fullmoon.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0)',
       overlayColor2: 'rgba(0, 0, 0, 0)'
@@ -41,7 +41,7 @@ module.exports = () => {
   if (month == 12 && day < 28) {
     return {
       season: 'christmas',
-      bgImage: '/images/bg_christmas.png',
+      bgImage: '/assets/images/bg_christmas.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0.5)',
       overlayColor2: 'rgba(0, 0, 0, 0.1)'
@@ -52,7 +52,7 @@ module.exports = () => {
   if (month == 12 && day >= 28) {
     return {
       season: 'new_year',
-      bgImage: '/images/bg_newyear.png',
+      bgImage: '/assets/images/bg_newyear.png',
       overlayDeg: '0deg',
       overlayColor1: 'rgba(0, 0, 0, 0.5)',
       overlayColor2: 'rgba(0, 0, 0, 0.1)'
@@ -62,7 +62,7 @@ module.exports = () => {
   // Rest of the year
   return {
     season: 'default',
-    bgImage: '/images/bg.jpg',
+    bgImage: '/assets/images/bg.jpg',
     overlayDeg: '0deg',
     overlayColor1: 'rgba(0, 0, 0, 0.1)',
     overlayColor2: 'rgba(0, 0, 0, 0.1)'

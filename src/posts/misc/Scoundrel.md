@@ -54,24 +54,24 @@ If you were pommeled and grinded into jelly, your score is the negative sum valu
 Below is the first two rooms of a playthrough, to give a feel for the setup:
 Room 1 has a single monster (7♣️) a small sword (5♦️) and two potions (2♥️, 9♥️)
 
-{% image "images/post-images/scoundrel/room_1.png", "Scoundrel Room 1" %}
+{% image "assets/images/post-images/scoundrel/room_1.png", "Scoundrel Room 1" %}
 
 I chose to equip the sword and fight the troll, taking two damage to the face in the process. 
 
-{% image "images/post-images/scoundrel/room_1_fought.png", "Scoundrel Room 1 after the fight" %}
+{% image "assets/images/post-images/scoundrel/room_1_fought.png", "Scoundrel Room 1 after the fight" %}
 
 I then drink the smaller of the potions, restoring my health. 
 
-{% image "images/post-images/scoundrel/room_1_potion.png", "Scoundrel Room 1 after the potion" %}
+{% image "assets/images/post-images/scoundrel/room_1_potion.png", "Scoundrel Room 1 after the potion" %}
 
 Having cleared three cards, I move to the next room. 
 
-{% image "images/post-images/scoundrel/room_2.png", "Scoundrel Room 2" %}
+{% image "assets/images/post-images/scoundrel/room_2.png", "Scoundrel Room 2" %}
 
 Here I find a level 10 claymore, the level 13 troll king and the level 11 goblin prince, and of course the health potion from the previous room. <br>
 In this case, I would probably be best off dropping the level 5 short sword, and grabbing the claymore, before taking on the troll king for 3 damage and then the goblin for another 1 damage. Then I can bring the potion with me, on to the next room, and I would still have the claymore, ready to take on level 10 and lower monsters. 
 
-{% image "images/post-images/scoundrel/room_2_fight_2.png", "Scoundrel Room 2 after fights" %}
+{% image "assets/images/post-images/scoundrel/room_2_fight_2.png", "Scoundrel Room 2 after fights" %}
 
 
 ## To keep track

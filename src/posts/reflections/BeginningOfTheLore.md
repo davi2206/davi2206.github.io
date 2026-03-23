@@ -29,6 +29,6 @@ The articles will include spiritual explorations and personal recommendations.
 
 If I am a good boy, I will remember to post on my social channels when posting here, so you have a chance to follow allong. 
 
-<a href="{{ site.twitter }}" target="_blank">Follow me on X</a> <br>
-<a href="{{ site.instagram }}" target="_blank">Se pictures on Instagram</a> <br>
-<a href="{{ site.discord }}" target="_blank">Join the Discord</a>
+Follow me on {% twitter %}<br>
+Se pictures on {% instagram %}<br>
+Join the {% discord %}

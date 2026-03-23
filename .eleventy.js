@@ -3,6 +3,7 @@ const filters = require('./eleventy-config/filters');
 const passThrough = require('./eleventy-config/passThrough');
 const customCollections = require('./eleventy-config/collections');
 const imageModule = require('./eleventy-config/images')
+const shortcodeModule = require('./eleventy-config/shortcodes')
 
 const futurePost = require("eleventy-plugin-future-post");
 const rssPlugin = require("@11ty/eleventy-plugin-rss");
@@ -15,6 +16,7 @@ module.exports = function (eleventyConfig) {
     passThrough(eleventyConfig);
     customCollections(eleventyConfig);
     imageModule(eleventyConfig);
+    shortcodeModule(eleventyConfig);
 
     eleventyConfig.addGlobalData("styleModifier", require('./eleventy-config/styleModifier'));
 
