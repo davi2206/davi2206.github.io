@@ -66,7 +66,8 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal | Note |
 | ----- | ---- | ---- |
-| 29/03 | NorthLore Posts | Scoundrel |
+| 03/04 | NorthLore Posts | Scoundrel |
+| 23/03 | NorthLore Posts | Daily Walk: 30 Day Challenge |
 | 01/03 | 5K Walks | St. Økssø, 2 rounds |
 | 26/02 | Read Books | Ternet Ninja 1 |
 | 21/02 | 5K Walks | Saturday walk |
