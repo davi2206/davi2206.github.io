@@ -2,7 +2,7 @@
 tags: misc
 layout: _article.njk
 title: "Scoundrel"
-date: "2026-04-03"
+date: "2026-04-10"
 summary: "A simple, single-player, Dungeon Crawler Card Game"
 ---
 ## Scoundrel
