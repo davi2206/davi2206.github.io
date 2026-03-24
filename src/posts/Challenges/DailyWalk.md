@@ -40,11 +40,11 @@ And if you have ideas for other challenges I (or we) should take on, those are a
 **Conversions:**<br>
 {% endanchor %}
 DKK 1.000,- is roughly<br>
-EUR 134,80<br>
-GBP 115.70<br>
-USD 155.50
+€ 134,80 EUR<br>
+£ 115.70 GBP<br>
+$ 155.50 USD
 
 DKK 29.000,- is roughly<br>
-EUR 3.881,80<br>
-GBP 3,357.40<br>
-USD 4,502.50
+€ 3.881,80 EUR<br>
+£ 3,357.40 GBP<br>
+$ 4,502.50 USD
