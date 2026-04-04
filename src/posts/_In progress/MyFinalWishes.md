@@ -11,7 +11,7 @@ Sometimes we have to talk about the harder things in life. Not just for ourselve
 An important aspect of life, is to accept that it ends. And when that happens, then what? Have you considered what you want to happen after you die? Believe me, there are plenty of decisions to make in the time after someone passes away, and you have the opportunity to make that time much easier for your surviving relatives. 
 
 
-## Everyone should have this
+## Everyone should write this
 Many people say they don't need to or want to write a document, like "My Final Wishes" for different reasons. The most common being people don't really care, so they are fine with the cheapest options. or they don't think it is relevant yet, since they expect to live for many years to come. <br>
 To the people who say they have plenty of time, I ask you: how close do you want to cut it? Will you write this when you turn 50? Or when you retire from work? Or when you are admitted to hospice? <br>
 What if you are struck by lightning tomorrow, or run over by a bus or something else? We never know how much time we have left, so why not write this document now? Just in case. 
@@ -22,11 +22,11 @@ If you really don't care, it will take you no more than an hour to fill out this
 Either way, you should create this document, to help your family, when the time comes. 
 
 
-## Thats all great, but what is it?
+## "My Final Wishes" - Shortly Explained
 There are several different templates you can use to make a document with important information, for you loved ones, before you pass. In Denmark there is a template called "Min Sidste Vilje", which translates to "My Last Will" (but 'will', as in 'wishes and opinions', not as 'will and testament'). In english, similar documents are referred to as "My Last Wishes", "My Final Wishes" or even "End of Life Planner". <br>
 Whatever version you use, or name you give it, the concept is the same: It is a collection of information about you and decisions you make about your funeral, final resting place, belongings and many other things that are relevant, after you are gone. 
 
-### What it includes?
+### What is included
 The document itself includes personal detail about you, to identify that it is really yours and not one you are holding for someone else. <br>
 Then it includes a long range of decisions about everything from the funeral ceremony, to what clothes you want to wear, and the music you want played. 
 
