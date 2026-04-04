@@ -13,7 +13,9 @@ Library for working with dates and time
 
 
 ## Start project locally
-```npx @11ty/eleventy --serve --port 4200```
+```npm run serve``` Serve only
+```npm run start``` Install, build Start
+
 
 
 ## Deploy
