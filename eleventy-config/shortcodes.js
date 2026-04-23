@@ -6,13 +6,7 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addShortcode("money", function(amount) {
-        const userLocale = navigator.languages?.[0] || navigator.language || 'en-US';
-        const formatter = new Intl.NumberFormat(userLocale, {
-            minimumFractionDigits: 2,
-            maximumFractionDigits: 2
-        });
-
-        const formatterSmall = new Intl.NumberFormat(userLocale, {
+        const formatter = new Intl.NumberFormat('da-DK', {
             minimumFractionDigits: 0,
             maximumFractionDigits: 0
         });
@@ -21,7 +15,7 @@ module.exports = function (eleventyConfig) {
         let gbp = formatter.format(amount/8.6);
         let usd = formatter.format(amount/6.4);
 
-        return `<span class="tooltip">Dkk ${formatterSmall.format(amount)},-
+        return `<span class="tooltip">Dkk ${formatter.format(amount)},-
                     <span class="tooltip-text">
                         Approximate:<br>
                         € ${eur}<br>

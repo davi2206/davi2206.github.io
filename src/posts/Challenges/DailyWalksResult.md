@@ -29,3 +29,6 @@ However, one person has been consistent in asking how the challenge was coming a
 ## Future
 I hope there are still people reading this page, and maybe consider joining the {% discord %}. <br>
 I will definetely be adding more challenges later on, either more 30 day challenges, or other formats. Feel free to let me know if you have any ideas for challenges, or if you would like to join in and play along, at some point. 
+
+## Reciept from Children's Cancer Foundation
+{% image "assets/images/post-images/DailyWalksResult/reciept.png", "Reciept from Children's Cancer Foundation" %}
