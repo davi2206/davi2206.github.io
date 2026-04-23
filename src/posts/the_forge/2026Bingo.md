@@ -64,16 +64,17 @@ Good luck, and have fun!
 <hr>
 
 ## TLDR; Milestones reached
-| Date  | Goal              | Note                          |
-| ----- | ----              | ----                          |
-| 10/04 | NorthLore Posts   | Scoundrel                     |
-| 23/03 | Parks & Zoos      | Randers Regnskov              |
-| 23/03 | NorthLore Posts   | Daily Walk: 30 Day Challenge  |
-| 14/03 | Parks & Zoos      | Nordsøen Oceanarium           |
-| 01/03 | 5K Walks          | St. Økssø, 2 rounds           |
-| 26/02 | Read Books        | Ternet Ninja 1                |
-| 21/02 | 5K Walks          | Saturday walk                 |
-| 01/02 | Read Books        | Hurog: Dragon Blood           |
-| 01/02 | NorthLore Posts   | 2026 Bingo                    |
-| 18/01 | Read Books        | A Christmas Carol             |
-| 11/01 | 5K Walks          | With scouts                   |
+| Date  | Goal              | Note                           |
+| ----- | ----              | ----                           |
+| 23/04 | NorthLore Posts   | Daily Walk Challenge completed |
+| 10/04 | NorthLore Posts   | Scoundrel                      |
+| 23/03 | Parks & Zoos      | Randers Regnskov               |
+| 23/03 | NorthLore Posts   | Daily Walk: 30 Day Challenge   |
+| 14/03 | Parks & Zoos      | Nordsøen Oceanarium            |
+| 01/03 | 5K Walks          | St. Økssø, 2 rounds            |
+| 26/02 | Read Books        | Ternet Ninja 1                 |
+| 21/02 | 5K Walks          | Saturday walk                  |
+| 01/02 | Read Books        | Hurog: Dragon Blood            |
+| 01/02 | NorthLore Posts   | 2026 Bingo                     |
+| 18/01 | Read Books        | A Christmas Carol              |
+| 11/01 | 5K Walks          | With scouts                    |
