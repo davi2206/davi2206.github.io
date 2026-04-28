@@ -33,8 +33,8 @@ Then it includes a long range of decisions about everything from the funeral cer
 Here are a few of the important questions to consider: 
 - Buried or cremated?
 - What clothes? Do you have a special suit or dress? Or maybe even a uniform or other special outfit?
-- Coffin, type, color, considerations? (Should it be environmentally friendly, or as colorful as possible)
-- Urn (if applicable)? Eco, colorful, wood vs ceramic vs cloth, decorations, drawings?
+- Coffin, type, color, considerations? (Should it be environmentally friendly, or as colourful as possible)
+- Urn (if applicable)? Eco, colourful, wood vs ceramic vs cloth, decorations, drawings?
 - Ceremony? Funeral, memorial, beach party? Religious, or civil? Who should be invited?
 - Who should officiate? Priest/minister or non-religious person? Someone specific?
 - What songs and music?
@@ -60,7 +60,7 @@ Remember, you have the rest of your lift to refine and update this document, if 
 
 ### Where to put the document
 You need the people closest to you to know that the document exists, and have easy access to it, if they need it. But you might not want to share it publicly, since it is very personal, and may include details that shouldn't be public knowledge. <br>
-In some countries, there are digital versions that you can fill out, that are then made available to morticians after you pass. Make sure to verify that the service you choose is legitimate though. In Denmark, you can visit <a href="https://minsidstevilje.nu" target="_blank">MinSidsteVilje.nu</a>, which is an official site, developed by the Danish Funeral Directors Association, in collaboration with Elysium Begravelsesopsparing, a company that specializes in funeral savings accounts. 
+In some countries, there are digital versions that you can fill out, that are then made available to morticians after you pass. Make sure to verify that the service you choose is legitimate though. In Denmark, you can visit <a href="https://minsidstevilje.nu" target="_blank">MinSidsteVilje.nu</a>, which is an official site, developed by the Danish Funeral Directors Association, in collaboration with Elysium Begravelsesopsparing, a company that specialises in funeral savings accounts. 
 
 Another option is to print the document, and store it at your home. Just make sure it is easy to find, when the time comes. You can also share the document with the people who need it, as soon as it is written. Obviously, for some, that may be a difficult conversation, but one that is good to have, I believe. 
 

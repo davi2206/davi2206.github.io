@@ -9,7 +9,7 @@ summary: "Take a walk, every day for 30 days"
 Daily exercise is important. Or so I heard. So now I will try and get some more fresh air, while also moving this old carcase, to better my health, as well as practising consistency. 
 
 ## The Plan
-For the next 30 days, I will do my damndest to get out on a small walk, every day. The idea is to walk at least 10 minutes, but of course some days should be longer walks as well. Anything less than 10 minutes, is not really exercise, and does not count. <br>
+For the next 30 days, I will do my damnedest to get out on a small walk, every day. The idea is to walk at least 10 minutes, but of course some days should be longer walks as well. Anything less than 10 minutes, is not really exercise, and does not count. <br>
 I already know, that some days are going to be a struggle. Not the walk itself, but rather convincing myself to get off the couch, and start moving. Especially if the weather is bad, I'll have a hard time going out in the rain. But that is the essence of the challenge: Staying consistent, and showing up, especially on the hard days. 
 
 Given that it is only a 10-15 minute commitment pr day, it shouldn't be a problem though. I can easily take walks, both before and after work, or even over lunch, if I feel like I need a break. The challenge is really more with motivation than finding the time. 

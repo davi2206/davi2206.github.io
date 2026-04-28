@@ -7,7 +7,7 @@ summary: "To catch up on life, sometimes you have to put it on hold"
 ---
 
 I, as so many others, perpetually have too many projects I have started or that I am planing, but never find the time to work on. <br>
-When I come home from work, I want to work on my projects, but I am usually tired, and need to relax for a while. And before I know it, the day is over, and I didn't get much done, if anything at all. If only I didn't have to go to work every day, I would have much better time to work on my passion projects, my house projects, personal projects, and all the other stuff I neglect on a daily basis. This summer I realized that the only way to catch up on all of this, is to stop going to work. <br>
+When I come home from work, I want to work on my projects, but I am usually tired, and need to relax for a while. And before I know it, the day is over, and I didn't get much done, if anything at all. If only I didn't have to go to work every day, I would have much better time to work on my passion projects, my house projects, personal projects, and all the other stuff I neglect on a daily basis. This summer I realised that the only way to catch up on all of this, is to stop going to work. <br>
 This is why I decided to take November off. I dubbed it "The November Project". A whole month, dedicated to getting ahead of the curve. Working on all my projects, and getting as much as possible done.<br>
 I am very thankful that I am in a position, that allows me to do this. I am very aware that many people don't have the option to take a full month off work, and I am hoping to do it justice, by being productive, and not wasting this opportunity.
 
@@ -18,7 +18,7 @@ Let it also be a deep and heartfelt Thank You, to the people who made this possi
 
 ## The Projects
 First off, I'm hoping to improve on myself just a little bit. I have hundreds of books that I want to read but with my regular daily routine, they all just sit on a shelf, gathering dust. I am planing to get some reading done, and hopefully make it a habit to read more. <br>
-In addition to the mental self improvement, I am hoping to start exercising. Not much, and not to get completely ripped. But a half hour walk, or a few minutes strengthening my core, will go a long way. I am hoping to also make this a habit. 20-30 minutes every day, will be a big improvement. I try to refer to it as "Mandatory Physical Self Improvement", as that emphasizes the importance of getting off my ass, instead of growing roots on my couch. (And it also sounds cool)
+In addition to the mental self improvement, I am hoping to start exercising. Not much, and not to get completely ripped. But a half hour walk, or a few minutes strengthening my core, will go a long way. I am hoping to also make this a habit. 20-30 minutes every day, will be a big improvement. I try to refer to it as "Mandatory Physical Self Improvement", as that emphasises the importance of getting off my ass, instead of growing roots on my couch. (And it also sounds cool)
 
 ### Businesses
 **Books**<br>

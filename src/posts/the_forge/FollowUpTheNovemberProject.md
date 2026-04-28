@@ -6,7 +6,7 @@ date: "2025-12-20"
 summary: "I put my life on hold, to catch up on many different projects. Here is how that went"
 ---
 
-The project is over. This is a short followup, on the things I meant to get done. 
+The project is over. This is a short follow-up, on the things I meant to get done. 
 
 ## The Projects
 I was planing on getting some reading done, and although I did read a bit, I didn't find enough time and energy for it, during November. However, I have been reading more regularly since, and I am hoping to stick to that habit, going forward. <br>
@@ -54,7 +54,7 @@ The only windowsill that has a clutter now, is in my office, because I have stac
 **The Garage && Shed**<br>
 This was a big one. I spent two full days, emptying the sheds and clean them. Then sorting everything, packing in boxes and stacking it all on shelves. <br>
 Everything was carefully considered if it should be saved or not, and a lot of stuff ended up getting sold and thrown away. Now everything is perfect, and I can see the floor of the shed!<br>
-The garage is still a mess though. I didn't get around to cleaning that properly. In my defense, most of the stuff in the garage can be sorted in two categories: 
+The garage is still a mess though. I didn't get around to cleaning that properly. In my defence, most of the stuff in the garage can be sorted in two categories: 
 1. Things that are already in boxes and on shelves
 2. Trash that I need to take to the recycling station, when I have the time, and a trailer to take it on. 
 

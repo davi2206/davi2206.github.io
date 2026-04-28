@@ -44,11 +44,11 @@ If you run from one room, you are stuck with the next room you get to.
 **Variation**: In some variations of the game, you shuffle the dungeon deck, after running from a room. This makes the game slightly less predictable. 
 
 ### Endgame and Score
-The game ends either when you get through the entire dungeon, or you run out of health (0♥️ = 💀). Whatever monster you choose to fight, that brings your health to 0, also dies in the process. This is important for the score, as going out in a blaze of glory will give you a better score. When you know the game is about to end, fight the biggest baddest beast in the room.
+The game ends either when you get through the entire dungeon, or you run out of health (0♥️ = 💀). Whatever monster you choose to fight, that brings your health to 0, also dies in the process. This is important for the score, as going out in a blaze of glory will give you a better score. When you know the game is about to end, fight the biggest badest beast in the room.
 
 You score can be either positive or negative, after the game ends, depending if you made it through, or died trying. <br>
 If you made it through the whole dungeon, your score is your health, plus any remaining health potions in the deck and current room. <br>
-If you were pommeled and grinded into jelly, your score is the negative sum value of all remaining monsters in the deck, and current room. This is why losing to the biggest monster possible counts! If there are a level 2 monster and a level 12 monster in the room, and you have 1 health, your are done either way. But since the monster you chose to fight also dies, you should take on the level 12. That way only the level 2 monster is left to subtract from the final score. 
+If you were pommelled and ground into jelly, your score is the negative sum value of all remaining monsters in the deck, and current room. This is why losing to the biggest monster possible counts! If there are a level 2 monster and a level 12 monster in the room, and you have 1 health, your are done either way. But since the monster you chose to fight also dies, you should take on the level 12. That way only the level 2 monster is left to subtract from the final score. 
 
 ## An example
 Below is the first two rooms of a playthrough, to give a feel for the setup:

@@ -27,7 +27,7 @@ The articles will include spiritual explorations and personal recommendations.
 - I Love You - And 1,000 other lies I told today, Not even sure what category this is?
 - Wave Function Collapse, Python programming
 
-If I am a good boy, I will remember to post on my social channels when posting here, so you have a chance to follow allong. 
+If I am a good boy, I will remember to post on my social channels when posting here, so you have a chance to follow along. 
 
 Follow me on {% twitter %}<br>
 Se pictures on {% instagram %}<br>
