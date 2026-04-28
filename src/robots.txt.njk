@@ -1,4 +1,8 @@
- _        _______  _______ _________            _        _______  _______  _______ 
+---
+permalink: /robots.txt
+eleventyExcludeFromCollections: true
+---
+
 ( (    /|(  ___  )(  ____ )\__   __/|\     /|  ( \      (  ___  )(  ____ )(  ____ \
 |  \  ( || (   ) || (    )|   ) (   | )   ( |  | (      | (   ) || (    )|| (    \/
 |   \ | || |   | || (____)|   | |   | (___) |  | |      | |   | || (____)|| (__    
@@ -29,7 +33,13 @@ Allow: /
 User-agent: *
 Disallow: /
 
+# -- No looking at my secrets
+User-agent: *
+Disallow: /secret
 
 
 # --- Sitemap  ---
 Sitemap: https://NorthLore.dk/feed.xml
+
+{{ ctf.flags.robots }}
+{{ ctf.hints.robots }}
