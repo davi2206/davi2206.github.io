@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                           |
 | ----- | ----              | ----                           |
+| 28/04 | 5K walks          | Lazy Afternoon Walk            |
 | 23/04 | NorthLore Posts   | Daily Walk Challenge completed |
 | 10/04 | NorthLore Posts   | Scoundrel                      |
 | 23/03 | Parks & Zoos      | Randers Regnskov               |
