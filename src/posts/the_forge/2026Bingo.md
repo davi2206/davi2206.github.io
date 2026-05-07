@@ -66,6 +66,8 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                           |
 | ----- | ----              | ----                           |
+| 05/05 | Read Books        | Ternet Ninja 2                 |
+| 01/05 | NorthLore Posts   | My Final Wishes                |
 | 28/04 | 5K walks          | Lazy Afternoon Walk            |
 | 23/04 | NorthLore Posts   | Daily Walk Challenge completed |
 | 10/04 | NorthLore Posts   | Scoundrel                      |
