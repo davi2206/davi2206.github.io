@@ -1,0 +1,19 @@
+{
+    "flags": {
+        "format": "FLAG__DATA",
+        "intro": "FLAG__WW91IHNob3VsZCBvcGVuIHRoZSBkZXYgY29",
+        "intro_hidden": "FLAG__uc29sZSwgYW5kIHBva2UgYXJvdW5kLiBNYX",
+        "robots": "FLAG__liZSByZWZyZXNoIHRoZSBwYWdlLCB0byBzZ",
+        "secret": "FLAG__WUgaWYgaXQgc3BpdHMgYW55dGhpbmcgb3V0",
+        "console": "FLAG__x",
+        "window": "FLAG__y"
+    },
+    "hints": {
+        "intro": "Closely inspect the area around the flag",
+        "intro_hidden": "The next flag is mostly seen by robots?",
+        "robots": "Maybe the secrets are not that secret after all?",
+        "secret": "Do these flags all look like Base64 to you? Maybe if you put them all together, you can find something interesting?",
+        "console": "Would someone put a flag on the window? Maybe you should check"
+    },
+    "flag_count": 6
+}

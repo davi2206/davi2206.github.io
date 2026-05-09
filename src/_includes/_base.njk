@@ -33,6 +33,12 @@
 
     <!-- Scripts -->
     {% include "_base/scripts.njk" %}
+    
+    <!-- Script for ctf -->
+    <script>
+        window.flag="{{ ctf.flags.window }}";
+    </script>
+
 </body>
 
 </html>
