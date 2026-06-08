@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                           |
 | ----- | ----              | ----                           |
+| 05/06 | Read Books        | Intet                          |
 | 23/05 | Read Books        | Ternet Ninja 3                 |
 | 05/05 | Read Books        | Ternet Ninja 2                 |
 | 01/05 | NorthLore Posts   | My Final Wishes                |
