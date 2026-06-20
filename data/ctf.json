@@ -1,19 +1,23 @@
 {
     "flags": {
-        "format": "FLAG__DATA",
-        "intro": "FLAG__WW91IHNob3VsZCBvcGVuIHRoZSBkZXYgY29",
-        "intro_hidden": "FLAG__uc29sZSwgYW5kIHBva2UgYXJvdW5kLiBNYX",
-        "robots": "FLAG__liZSByZWZyZXNoIHRoZSBwYWdlLCB0byBzZ",
-        "secret": "FLAG__WUgaWYgaXQgc3BpdHMgYW55dGhpbmcgb3V0",
-        "console": "FLAG__x",
-        "window": "FLAG__y"
+        "format":       "FLAG<nr>__<DATA>",
+        "example":      "FLAGx__ASDFGHJKLQWERTYUIOPZXCVBNM123456789",
+        "intro":        "FLAG1__WW91IHNob3VsZCBvcGVuIHRoZSBkZXYgY29",
+        "intro_hidden": "FLAG2__uc29sZSwgYW5kIHBva2UgYXJvdW5kLiBNYX",
+        "robots":       "FLAG3__liZSByZWZyZXNoIHRoZSBwYWdlLCB0byBzZ",
+        "secret":       "FLAG4__WUgaWYgaXQgc3BpdHMgYW55dGhpbmcgb3V0",
+        "console":      "FLAG5__VGhhdCdzIGFsbCBmb3Igbm93LCBraWRzISBDb25ncmF0dWxh",
+        "window":       "FLAG6__dGlvbnMgb24gbWFraW5nIGl0IGFsbCB0aGUgd2F5LCBhbmQg",
+        "css":          "FLAG7__dGhhbmsgeW91LCB2ZXJ5IG11Y2gsIGZvciBwbGF5aW5nIQ=="
     },
     "hints": {
-        "intro": "Closely inspect the area around the flag",
+        "intro":        "Closely inspect the area around the flag",
         "intro_hidden": "The next flag is mostly seen by robots?",
-        "robots": "Maybe the secrets are not that secret after all?",
-        "secret": "Do these flags all look like Base64 to you? Maybe if you put them all together, you can find something interesting?",
-        "console": "Would someone put a flag on the window? Maybe you should check"
+        "robots":       "Maybe the secrets are not that secret after all?",
+        "secret":       "Do these flags all look like Base64 to you? Maybe if you put them all together, you can find something interesting?",
+        "console":      "Would someone put a flag on the window? Maybe you should check",
+        "window":       "I wonder if these flags have a specific Styling on them? Where might you find that out?",
+        "css":          "Time for another decoding! You know the drill by now!"
     },
-    "flag_count": 6
+    "flag_count": 7
 }
