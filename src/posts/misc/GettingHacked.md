@@ -1,7 +1,7 @@
 ---
 tags: misc
 layout: _article.njk
-title: "Getting Hacked"
+title: "Hacking is Fun"
 date: "2026-05-10"
 summary: "Not everything is as innocent as it seems"
 ---
