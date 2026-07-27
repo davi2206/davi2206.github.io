@@ -2,8 +2,8 @@
 tags: misc
 layout: _article.njk
 title: "Hacking is Fun"
-date: "2026-05-10"
-summary: "Not everything is as innocent as it seems"
+date: "2026-07-31"
+summary: "ELEPHANTS Not everything is as innocent as it seems"
 ---
 
 Over the years, I have dabbled in some hacking and penetration testing, and been playing with different tools. I am only trying to learn, and find ways to make my own infrastructure more secure, but sometimes it is also fun to hack something, just to do it. 
@@ -25,7 +25,7 @@ If you have absolutely no clue where to start, I would suggest looking into tuto
 
 I have decided to try and create a small treasure hunt style CTF on this very website! The challenges will be very basic, and the tools and skills needed are barely classified as hacking, but for someone completely new to the area, it might give you a small taste of the hacker life. 
 
-Obviously this website it not separate from the internet, but the flags are hidden client-side, meaning you should not hack my servers to find them. You simply have to do reconocense on the website, the same way a hacker would, before actually attacking the site. <br>
+Obviously this website it not separate from the internet, but the flags are hidden client-side, meaning you should not hack my servers to find them. You simply have to do reconnaissance on the website, the same way a hacker would, before actually attacking the site. <br>
 Do not actually attack this site!
 
 Read the rules before starting the challenge. They may be helpful in finding the entrypoint for the game. 
