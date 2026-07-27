@@ -66,6 +66,8 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                           |
 | ----- | ----              | ----                           |
+| 24/07 | 5K walks          | Spejdernes Lejr 2026, Friday   |
+| 23/07 | 5K walks          | Spejdernes Lejr 2026, Thuesday |
 | 16/06 | Certifications    | Motorcycle License             |
 | 07/06 | Parks & Zoos      | Ree Park Safari                |
 | 05/06 | Read Books        | Intet                          |
