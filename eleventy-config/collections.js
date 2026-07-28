@@ -19,10 +19,17 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("tagsList", function(collection) {
         let posts = collection.getAll();
 
-        let tags = [];
+        let tags = [
+            "lore",
+            "the_forge",
+            "writing",
+            "reflections",
+            "challenges",
+            "misc",
+        ];
 
         posts.forEach(element => {
-            if(element?.data?.tags && element.date <= new Date()) {
+            if(element?.data?.tags && element.date <= new Date() && !element.data.tags.includes("exclude")) {
                 tags.push(element.data.tags[0]);
             }
         });
