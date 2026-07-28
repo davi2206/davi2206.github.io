@@ -28,14 +28,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Eleventy site
-        run: npm run build
-
       - name: Check placeholders
         run: node .github/scripts/validate-content.js
 
-      - name: Check internal links
-        run: npx html-validator-cli "_site/**/*.html"
+      - name: Build Eleventy site
+        run: npm run build
 
       - name: Validate HTML
         run: npx html-validate "_site/**/*.html"

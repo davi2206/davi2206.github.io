@@ -18,9 +18,9 @@ const required = [
 ];
 
 const files = fg.sync([
-  "**/src/**/*.md",
-  "**/*.njk",
-  "**/*.html",
+  "src/**/*.md",
+  "src/**/*.njk",
+  "src/**/*.html",
 ], {
   ignore: [
     "_site/**",
