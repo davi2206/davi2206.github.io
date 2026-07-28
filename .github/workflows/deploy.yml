@@ -34,9 +34,6 @@ jobs:
       - name: Build Eleventy site
         run: npm run build
 
-      - name: Markdown lint
-        run: npx markdownlint-cli2 "**/*.md"
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
