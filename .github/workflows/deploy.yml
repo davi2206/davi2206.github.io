@@ -39,13 +39,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Check placeholders
-        run: node .github/scripts/check-placeholders.js
-
-      - name: Check front matter
-        run: node .github/scripts/check-frontmatter.js
-
-      - name: Check image references
-        run: node .github/scripts/check-images.js
+        run: node .github/scripts/validate-content.js
 
       - name: Check internal links
         run: npx html-validator-cli "_site/**/*.html"
