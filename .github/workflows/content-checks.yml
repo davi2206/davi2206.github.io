@@ -22,13 +22,13 @@ jobs:
       - run: npm ci
 
       - name: Check placeholders
-        run: node scripts/check-placeholders.js
+        run: node .github/scripts/check-placeholders.js
 
       - name: Check front matter
-        run: node scripts/check-frontmatter.js
+        run: node .github/scripts/check-frontmatter.js
 
       - name: Check image references
-        run: node scripts/check-images.js
+        run: node .github/scripts/check-images.js
 
       - name: Markdown lint
         run: npx markdownlint-cli2 "**/*.md"
