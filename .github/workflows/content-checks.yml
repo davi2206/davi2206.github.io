@@ -1,0 +1,34 @@
+name: Content Checks
+
+on:
+  pull_request:
+    branches: [main]
+
+  push:
+    branches: [main]
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check placeholders
+        run: node scripts/check-placeholders.js
+
+      - name: Check front matter
+        run: node scripts/check-frontmatter.js
+
+      - name: Check image references
+        run: node scripts/check-images.js
+
+      - name: Markdown lint
+        run: npx markdownlint-cli2 "**/*.md"
