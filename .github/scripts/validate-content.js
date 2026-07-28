@@ -18,7 +18,7 @@ const required = [
 ];
 
 const files = fg.sync([
-  "**/*.md",
+  "**/src/**/*.md",
   "**/*.njk",
   "**/*.html",
 ], {
