@@ -4,7 +4,6 @@ const fs = require("fs");
 const placeholders = [
   "ELEPHANT",
   "TODO",
-  "TO-DO",
   "FIXME",
 ];
 

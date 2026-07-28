@@ -1,3 +1,4 @@
+
 name: Deploy Eleventy site with GitHub Actions
 
 on:
@@ -30,6 +31,32 @@ jobs:
       - name: Build Eleventy site
         run: npm run build
 
+  validate:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Check placeholders
+        run: node .github/scripts/check-placeholders.js
+
+      - name: Check front matter
+        run: node .github/scripts/check-frontmatter.js
+
+      - name: Check image references
+        run: node .github/scripts/check-images.js
+
+      - name: Check internal links
+        run: npx html-validator-cli "_site/**/*.html"
+
+      - name: Validate HTML
+        run: npx html-validate "_site/**/*.html"
+
+      - name: Markdown lint
+        run: npx markdownlint-cli2 "**/*.md"
+
+  upload_pages_artifact:
+    runs-on: ubuntu-latest
+    needs: validate
+    steps:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -40,7 +67,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: upload_pages_artifact
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
