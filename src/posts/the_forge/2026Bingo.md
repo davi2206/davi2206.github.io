@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                           |
 | ----- | ----              | ----                           |
+| 01/08 | 5K walks          | Egholm, w. family              |
 | 24/07 | 5K walks          | Spejdernes Lejr 2026, Friday   |
 | 23/07 | 5K walks          | Spejdernes Lejr 2026, Thuesday |
 | 16/06 | Certifications    | Motorcycle License             |
