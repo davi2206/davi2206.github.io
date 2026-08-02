@@ -1,4 +1,5 @@
 const site = require("../data/site.json");
+const ctf = require("../data/ctf.json");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPairedShortcode("anchor", function(content, id) {
