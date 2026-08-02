@@ -1,7 +1,7 @@
 ---
 title: The End of the CTF Game
 layout: _article.njk
-permalink: EndGame6418.html
+permalink: EndGame6318.html
 ---
 
 That's all for now, kids! Congratulations on making it all the way, and thank you, very much, for playing! <br>
