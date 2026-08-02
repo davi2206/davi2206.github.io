@@ -9,8 +9,8 @@ summary: "ELEPHANTS Not everything is as innocent as it seems"
 Over the years, I have dabbled in some hacking and penetration testing, and been playing with different tools. I am only trying to learn, and find ways to make my own infrastructure more secure, but sometimes it is also fun to hack something, just to do it. 
 
 ## Jail time?
-Many people think hacking is illegal, and all hackers belong in jail. However, this is not the case. Hacking is simply the process of gaining access to something, in a way that was not intended. If you do that to your own network, website, services, etc. it is perfectly fine. Doing it on other peoples things is very illegal though. Think of it as breaking into a house. There are no rules stopping you from breaking in to your own house, as long as it is not putting anyone in danger. But obviously you can't break into the neighbours house. At least not without their express consent. It is exactly the same with hacking. <br>
-Unfortunately, the term "hacking" has been mostly used to describe bad people doing bad things, stealing money or identities, or breaking systems. This has led to "hacking" being seen as illegal to many people. To soften the tone a bit, you can choose to use terms as "penetration testing" or "security analysis", but in the end all three terms can be used to describe the same activities. 
+Many people think hacking is illegal, and all hackers belong in jail. However, this is not the case. Hacking is simply the process of gaining access to something, in a way that was not intended. If you do that to your own network, website, services, etc. it is perfectly fine. Doing it on infrastructure owned by other people though, is very illegal. Think of it as breaking into a house. There are no rules stopping you from breaking in to your own house, as long as it is not putting anyone in danger. But obviously you can't break into the neighbours house. At least not without their express consent. It is exactly the same with hacking. <br>
+Unfortunately, the term "hacking" has been mostly used to describe bad people doing bad things, stealing money or identities, or breaking systems. This has led to "hacking" being seen as illegal to many people. To soften the tone a bit, you can choose to use terms such as "penetration testing" or "security analysis", but in the end all three terms can be used to describe the same activities. 
 
 ### Three flavours
 I am a White Hat Hacker. I only test my own things, or system where I am in direct contact with the owner, and has their permission to test certain security aspects of their systems. This is where you should be too. White Hat Hackers can easily get a job in cybersecurity, or work freelance as a penetration tester for large companies. <br>
@@ -32,7 +32,8 @@ Read the rules before starting the challenge. They may be helpful in finding the
 
 ## Rules
 - This is a beginner friendly, client-side CTF. It is created as a game, not a test of your hacking skills
-- All flags are intentionally places, and they all have the format "{{ ctf.flags.format }}" (Example: {{ ctf.flags.example }})
+- All flags are intentionally places, and they all have the format "{{ ctf.flags.format }}" 
+<br>(Example: {{ ctf.flags.example }})
 - The site does not have any real vulnerabilities (that we know of). Do not try to find any. If you do find any, report them immediately, so we can fix them. They are not part of the game
 - Do NOT use any automated tools, scanners or brute-force attacks on the site. They are not needed for this game
 - Each flag will give a hint to find the next one
@@ -40,6 +41,8 @@ Read the rules before starting the challenge. They may be helpful in finding the
 
 There is no backend servers behind this website, so don't try and gain access to the underlaying system. All challenges can be solved in your browser, using just the browser dev tools, and maybe a few google searches. You will not need scanning or cracking tools. <br>
 The site is hosted on GitHub Pages, so trying to gain access to the backend is an attack on GitHub, which is owned by Microsoft. I am not kidding when I tell you: Don't try to hack the website. Stick to the rules, and follow the game. Nothing more. 
+
+You can choose to time yourself, if you want, but that is not required. If you do, your time starts NOW!
 
 To get you started, we have made the first flag VERY easy to find. It will be up to you, to find the rest. There is a total of {{ ctf.flag_count }} flags to find. <br>
 {{ ctf.flags.intro }}<br>
