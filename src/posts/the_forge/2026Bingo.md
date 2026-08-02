@@ -64,27 +64,28 @@ Good luck, and have fun!
 <hr>
 
 ## TLDR; Milestones reached
-| Date  | Goal              | Note                           |
-| ----- | ----              | ----                           |
-| 01/08 | 5K walks          | Egholm, w. family              |
-| 24/07 | 5K walks          | Spejdernes Lejr 2026, Friday   |
-| 23/07 | 5K walks          | Spejdernes Lejr 2026, Thuesday |
-| 16/06 | Certifications    | Motorcycle License             |
-| 07/06 | Parks & Zoos      | Ree Park Safari                |
-| 05/06 | Read Books        | Intet                          |
-| 23/05 | Read Books        | Ternet Ninja 3                 |
-| 05/05 | Read Books        | Ternet Ninja 2                 |
-| 01/05 | NorthLore Posts   | My Final Wishes                |
-| 28/04 | 5K walks          | Lazy Afternoon Walk            |
-| 23/04 | NorthLore Posts   | Daily Walk Challenge completed |
-| 10/04 | NorthLore Posts   | Scoundrel                      |
-| 23/03 | Parks & Zoos      | Randers Regnskov               |
-| 23/03 | NorthLore Posts   | Daily Walk: 30 Day Challenge   |
-| 14/03 | Parks & Zoos      | Nordsøen Oceanarium            |
-| 01/03 | 5K Walks          | St. Økssø, 2 rounds            |
-| 26/02 | Read Books        | Ternet Ninja 1                 |
-| 21/02 | 5K Walks          | Saturday walk                  |
-| 01/02 | Read Books        | Hurog: Dragon Blood            |
-| 01/02 | NorthLore Posts   | 2026 Bingo                     |
-| 18/01 | Read Books        | A Christmas Carol              |
-| 11/01 | 5K Walks          | With scouts                    |
+| Date  | Goal              | Note                                     |
+| ----- | ----              | ----                                     |
+| 02/08 | 30 Shitty Shorts  | Verified the first 18 stories are ready  |
+| 01/08 | 5K walks          | Egholm, w. family                        |
+| 24/07 | 5K walks          | Spejdernes Lejr 2026, Friday             |
+| 23/07 | 5K walks          | Spejdernes Lejr 2026, Thuesday           |
+| 16/06 | Certifications    | Motorcycle License                       |
+| 07/06 | Parks & Zoos      | Ree Park Safari                          |
+| 05/06 | Read Books        | Intet                                    |
+| 23/05 | Read Books        | Ternet Ninja 3                           |
+| 05/05 | Read Books        | Ternet Ninja 2                           |
+| 01/05 | NorthLore Posts   | My Final Wishes                          |
+| 28/04 | 5K walks          | Lazy Afternoon Walk                      |
+| 23/04 | NorthLore Posts   | Daily Walk Challenge completed           |
+| 10/04 | NorthLore Posts   | Scoundrel                                |
+| 23/03 | Parks & Zoos      | Randers Regnskov                         |
+| 23/03 | NorthLore Posts   | Daily Walk: 30 Day Challenge             |
+| 14/03 | Parks & Zoos      | Nordsøen Oceanarium                      |
+| 01/03 | 5K Walks          | St. Økssø, 2 rounds                      |
+| 26/02 | Read Books        | Ternet Ninja 1                           |
+| 21/02 | 5K Walks          | Saturday walk                            |
+| 01/02 | Read Books        | Hurog: Dragon Blood                      |
+| 01/02 | NorthLore Posts   | 2026 Bingo                               |
+| 18/01 | Read Books        | A Christmas Carol                        |
+| 11/01 | 5K Walks          | With scouts                              |
