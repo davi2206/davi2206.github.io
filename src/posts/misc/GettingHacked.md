@@ -2,8 +2,8 @@
 tags: misc
 layout: _article.njk
 title: "Hacking is Fun"
-date: "2026-07-31"
-summary: "ELEPHANTS Not everything is as innocent as it seems"
+date: "2026-08-15"
+summary: "But with great power comes great responsibility"
 ---
 
 Over the years, I have dabbled in some hacking and penetration testing, and been playing with different tools. I am only trying to learn, and find ways to make my own infrastructure more secure, but sometimes it is also fun to hack something, just to do it. 
