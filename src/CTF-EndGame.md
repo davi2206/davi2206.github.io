@@ -1,6 +1,9 @@
 ---
+tags: exclude
 title: The End of the CTF Game
 layout: _article.njk
+date: "2026-08-15"
+summary: "You finished the game!"
 permalink: EndGame6318.html
 ---
 

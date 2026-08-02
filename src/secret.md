@@ -1,6 +1,9 @@
 ---
-title: Very secret personal notes
+tags: exclude
 layout: _article.njk
+title: Very secret personal notes
+date: "2026-08-15"
+summary: "A secret file, that no one should see"
 permalink: secret.html
 ---
 
