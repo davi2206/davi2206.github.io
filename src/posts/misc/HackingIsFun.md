@@ -1,5 +1,5 @@
 ---
-tags: misc
+tags: misc, tech
 layout: _article.njk
 title: "Hacking is Fun"
 date: "2026-08-15"
