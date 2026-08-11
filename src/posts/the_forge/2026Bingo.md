@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 08/08 | Boardgame Night   | With family                              |
 | 02/08 | 30 Shitty Shorts  | Verified the first 18 stories are ready  |
 | 01/08 | 5K walks          | Egholm, w. family                        |
 | 24/07 | 5K walks          | Spejdernes Lejr 2026, Friday             |
