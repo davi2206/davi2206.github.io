@@ -48,7 +48,7 @@ To get you started, we have made the first flag VERY easy to find. It will be up
 {{ ctf.flags.intro }}<br>
 {{ ctf.hints.intro }}
 
-Good luck, and have fun!<br>
-
 <!-- {{ ctf.flags.intro_hidden }} -->
 <!-- {{ ctf.hints.intro_hidden }} -->
+
+Good luck, and have fun!<br>
