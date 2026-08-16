@@ -1,5 +1,5 @@
 ---
-tags: misc
+tags: misc, games
 layout: _article.njk
 title: "Scoundrel"
 date: "2026-04-10"
