@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 29/08 | 5K walks          | Round the city                           |
 | 23/08 | 5K walks          | Wasawasa hytten                          |
 | 15/08 | NorthLore Posts   | Hacking is Fun                           |
 | 08/08 | Boardgame Night   | With family                              |
