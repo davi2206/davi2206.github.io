@@ -31,7 +31,7 @@ I hope there are still people reading this page, and maybe consider joining the 
 I will definitely be adding more challenges later on, either more 30 day challenges, or other formats. Feel free to let me know if you have any ideas for challenges, or if you would like to join in and play along, at some point. 
 
 **Will I still be walking regularly?**<br>
-No. At least not daily, or anything like that. However, I do plan on being better at getting out and get some exercise, more often than I did before doing the challenge. I am hoping to get a move on a few times a week, and hopefully more than 10 minutes at a time. <br>
+No. At least not daily, or anything like that. However, I do plan on being better at getting out and get some exercise, more often than I did before doing the challenge. I am hoping to get a move on, a few times a week, and hopefully more than 10 minutes at a time. <br>
 Fell free to remind me once in a while, if you feel like it. 
 
 ## Reciept from Children's Cancer Foundation
