@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 11/09 | 5K walks          | Evening walk with Luna                   |
 | 07/09 | 5K walks          | Round the city again                     |
 | 29/08 | 5K walks          | Round the city                           |
 | 23/08 | 5K walks          | Wasawasa hytten                          |
