@@ -6,6 +6,10 @@ module.exports = function (eleventyConfig) {
         return `<span id="${id}">${content}</span>`;
     });
 
+    eleventyConfig.addPairedShortcode("box", function(content) {
+        return `<div class="box">${content}</div>`;
+    });
+
     eleventyConfig.addShortcode("money", function(amount) {
         const formatter = new Intl.NumberFormat('da-DK', {
             minimumFractionDigits: 0,
