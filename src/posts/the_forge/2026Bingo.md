@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 13/09 | Read Books        | Skammerens Datter                        |
 | 13/09 | 5K walks          | Day walk with Luna                       |
 | 11/09 | 5K walks          | Evening walk with Luna                   |
 | 07/09 | 5K walks          | Round the city again                     |
