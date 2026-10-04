@@ -66,6 +66,9 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 03/10 | Boardgame Night   | Family Brunch                            |
+| 01/10 | NorthLore Posts   | Happy Birthday                           |
+| 26/09 | 5K walks          | Walking Bella & Nella                    |
 | 20/09 | 5K walks          | Round the city                           |
 | 13/09 | Read Books        | Skammerens Datter                        |
 | 13/09 | 5K walks          | Day walk with Luna                       |
