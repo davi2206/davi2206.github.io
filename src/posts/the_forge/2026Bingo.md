@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 04/10 | 5K walks          | Wasawasa hytten                          |
 | 03/10 | Boardgame Night   | Family Brunch                            |
 | 01/10 | NorthLore Posts   | Happy Birthday                           |
 | 26/09 | 5K walks          | Walking Bella & Nella                    |
