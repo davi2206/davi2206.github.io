@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 17/10 | 5K walks          | Wasawasa hytten                          |
 | 11/10 | Read Books        | Skammer Tegnet                           |
 | 10/10 | Parks & Zoos      | Aalborg Zoo                              |
 | 04/10 | 5K walks          | Wasawasa hytten                          |
