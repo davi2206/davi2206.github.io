@@ -66,6 +66,7 @@ Good luck, and have fun!
 ## TLDR; Milestones reached
 | Date  | Goal              | Note                                     |
 | ----- | ----              | ----                                     |
+| 21/10 | Read Books        | The Subtle Art of not Giving a F*ck      |
 | 17/10 | 5K walks          | Wasawasa hytten                          |
 | 11/10 | Read Books        | Skammer Tegnet                           |
 | 10/10 | Parks & Zoos      | Aalborg Zoo                              |
